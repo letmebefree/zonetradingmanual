@@ -2,15 +2,17 @@
 
 Supply and demand are the fundamental drivers behind price movement of any stock or commodity. To understand how it works, we must be remembered that there is always two parties involved in a trade - the buyer and a seller.
 
-Sellers create supply by indicating the lowest price at which they are prepared to enter a short trade (the ask price). 
+Sellers create supply by indicating the lowest price at which they are prepared to enter a short trade (the ask price). Buyers create demand by indicating the highest price at which they are prepared to enter a long trade (the bid price). The bid and ask price represent these price levels where the respective parties believe they are getting good value.
 
-Buyers create demand by indicating the highest price at which they are prepared to enter a long trade (the bid price). 
+The willingness of a buyer or seller to enter a transaction at a specific price level is generally represented in the market with buy and sell limit orders. A buy limit order indicates that a party will transact at a price below current price. A sell limit order indicates that a party will transact at a price above current price. Buy and sell limit orders represent liquidity in the market and their volume at different price levels is what drives the available supply and demand.
 
-The bid and ask price are levels where the respective parties believe they are getting good value.Their willingness to enter a transaction at set levels is generally represented in the market with buy and sell limit orders. A buy limit order indicates that a party will transact at a price below current price. A sell limit order indicates that a party will transact at a price above current price. Buy and sell limit orders represent liquidity in the market and their volume at different price levels is what drives available supply and demand.
+However, buy and sell limit orders do not change prices by themselves. For this to occur, one of two conditions to be met. Either a compromise in price must be agreed by the buyer or seller, or a new entrant must appear who is prepared to transact at the price represented by the limit orders. 
 
-Buy and sell limit orders cannot change prices by themselves. For this to happen, a transaction needs to  occur at a price between the two levels. This requires one of two conditions to be met. Either a compromise in price must be agreed by the buyer or seller. Or a new entrant must appear who is prepared to transact at the price represented by the limit orders. Market orders are used to indicates the party will buy or sell at the best price available. The new price is determined by the closest limit order available to meet that party's needs.
+Market orders are used to indicates the party will buy or sell at the best price available. The new price is determined by the closest limit order available to meet that party's needs.
 
+If new buyers are continue to appear who also wish to enter at the lowest price available, the price at which they can transact will move higher and higher as sell limit orders get absorbed. This will only stop once there are no longer any buyers left who are prepared to trade at the higher prices.
 
+Typically, limit orders accumulate at certain price levels where the party placing the order can easily quantify their risk.
 ------------
 Put simply, when supply exceeds demand, sellers must reduce prices to entice the limited buyers available. Conversely, if demand exceeds supply, buyers have to pay more to persuade limited sellers to take the other side of their trade.
 
