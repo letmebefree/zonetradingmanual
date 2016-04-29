@@ -1,6 +1,6 @@
 # An Introduction To Supply And Demand
 
-Supply and demand are the fundamental drivers behind price movement of any stock or commodity. To understand how it works, we must be remembered that there is always two parties involved in a single trade - the buyer and a seller.
+Supply and demand are the fundamental drivers behind price movement of any stock or commodity. To understand how it works, we must be remembered that there is always two parties involved in a trade - the buyer and a seller.
 
 Sellers create supply by indicating the lowest price at which they are prepared to enter a short trade (the ask price). 
 
