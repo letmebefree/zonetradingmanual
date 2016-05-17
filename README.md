@@ -6,7 +6,7 @@ The willingness of buyers or sellers to enter into transactions at a price level
 
 A market order is used when a new entrant will buy or sell at the best price available, as seen in the market through a limit order (hence why limit orders provide liquidity). As a result of the transaction, a new current price is determined. Therefore, the current price on a price always represents price of the last transaction, not the next transaction.
 
-If new buyers who wish to enter at the lowest price available continue to exist, the price at which they can transact will move higher and higher as sell limit orders get absorbed. This will only stop once there are no longer any buyers left who are prepared to trade at the higher prices. The higher price goes, the lower the number of buyers that remain in the market. Conversely, as price increases, more sellers will be prepared to enter transactions with those buyers. At some point, the number of sellers will exceed the number of buyer and price will continue to fall again
+As new buyers continue to enter the market, the price at which they can transact will move higher and higher as sell limit orders get absorbed. This only stops once there are no  buyers left who are prepared to trade at the higher prices. The higher price goes, the lower the number of buyers that remain in the market. Conversely, as price increases, more sellers will be prepared to enter transactions with those buyers. At some point, the number of sellers will exceed the number of buyer and price will continue to fall again. This is why price always moves in waves.
 
 Typically, limit orders accumulate at certain price levels where the party placing the order can easily quantify their risk.
 ------------
