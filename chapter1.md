@@ -1,3 +1,3 @@
-# First Chapter
+# ZoneTrader
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+ZoneTrader is an expert adviser built for the Meta-trader trading platform. In its basic form, it provides
