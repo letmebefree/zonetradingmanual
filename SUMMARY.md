@@ -5,4 +5,5 @@
 * [About ZoneTrader](AboutZoneTrader.md)
 * Installing ZoneTrader
 * ZoneTrader Modes Of Operation
+* Strategy Parameters
 
