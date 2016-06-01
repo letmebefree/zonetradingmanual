@@ -1,5 +1,5 @@
 # Summary
 
-* [Supply And Demand](README.md)
+* [Supply And Demand](SupplyAndDemand.md)
 * [About ZoneTrader](chapter1.md)
 
