@@ -2,7 +2,6 @@
 
 * Introduction
 * [Table Of Contents](SUMMARY.md)
-* [Introduction](readme.md)
 * [Supply And Demand](SupplyAndDemand.md)
 * [About ZoneTrader](About.md)
 * [Installation](Installation.md)
