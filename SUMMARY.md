@@ -6,5 +6,5 @@
 * [About ZoneTrader](About.md)
 * [Installation](Installation.md)
 * [Operating Modes](OperatingModes.md)
-* [Strategy Parameters](StrategyPrameters.md)
+* [Strategy Parameters](StrategyParameters.md)
 
