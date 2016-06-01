@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Supply And Demand](SupplyAndDemand.md)
 * [About ZoneTrader](AboutZoneTrader.md)
-* Installation
+* [Installation](Installation.md)
 * Operating Modes
 * Strategy Parameters
 
