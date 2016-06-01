@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](readme.md)
 * [Supply And Demand](SupplyAndDemand.md)
 * [About ZoneTrader](AboutZoneTrader.md)
 * [Installation](Installation.md)
