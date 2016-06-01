@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* Introduction
 * [Table Of Contents](SUMMARY.md)
 * [Introduction](readme.md)
 * [Supply And Demand](SupplyAndDemand.md)
