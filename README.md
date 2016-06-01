@@ -6,11 +6,9 @@ The willingness of buyers or sellers to enter into transactions at a specific pr
 
 Whilst buy and sell limit orders create liquidity in the market, their presence does not directly impact the current price. This only occurs when a limit order is actually filled by a market order. 
 
-A market order is used by a participant who wants to buy or sell at the best price available. The best price depends on the closest level where there are limit orders present (hence why limit orders provide liquidity).
+A market order is used by a participant who wants to buy or sell at the best price available. The best price depends on the closest level where there are limit orders present (hence why limit orders provide liquidity). Once the limit order is filled, a new current price is set. Therefore, the current price on a chart represents the last transacted price, rather than the current bid or offer. The implication of this is that if a long bodied candle is seen on a chart, very little time was spent by price between the open and close, so relatively little trading can have occurred  between these levels. 
 
-As a result of the limit order being filled, a new current price is determined. This means the current price on a chart represents the last transacted price, not the current bid or offer. If a long bodied candle seen on a chart, this means that very little time could have been spent by price between the open and close of the candle. Therefore, not much trading will have occurred  between these extremes. 
-
-As new buyers continue to enter the market, the price at which they can transact will move higher as the nearby sell limit orders get absorbed. This  stops once there are no  buyers remaining who are prepared to trade at the higher prices. 
+As new buyers continue to enter the market, the price at which they can transact will move higher as the sell limit orders nearby are absorbed. Price starts moving up slower as the number of buyers prepared to trade at the higher prices diminishes. 
 
 The higher price goes, the lower the number of buyers that remain in the market. Conversely, as price increases, more sellers will be prepared to enter transactions with those buyers. At some point, the number of sellers will exceed the number of buyer and price will continue to fall again. This explains why price generally follows a trend using a wave like motion.
 
