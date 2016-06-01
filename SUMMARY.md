@@ -4,6 +4,6 @@
 * [Supply And Demand](SupplyAndDemand.md)
 * [About ZoneTrader](AboutZoneTrader.md)
 * [Installation](Installation.md)
-* Operating Modes
+* [Operating Modes](OperatingModes.md)
 * Strategy Parameters
 
