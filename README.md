@@ -1,4 +1,4 @@
-# An Introduction To Supply And Demand
+# Supply And Demand
 
 Supply and demand are the drivers behind all price movement for any stock, currency or commodity. To understand how they work, we need to remember that there must always be a buyer and a seller for every completed transaction. The buyer has a maximum price they will pay the seller, whilst the seller has a minimum price at which they will sell to the buyer. When we consider that the market is made up of a large number of buyers and sellers, all of which have their own view of how much something is worth, there is nearly always going to be an imbalance of buyers and sellers at any given price point. This imbalance is what causes price to fluctuate between price levels.
 
