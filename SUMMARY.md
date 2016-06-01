@@ -7,4 +7,5 @@
 * [Installation](Installation.md)
 * [Operating Modes](OperatingModes.md)
 * [Strategy Parameters](StrategyParameters.md)
+* Table Of Contents
 
