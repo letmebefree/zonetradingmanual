@@ -14,7 +14,7 @@ In reality, it is predominantly the retail traders that fill the institutional o
 
 Whilst buy and sell limit orders create liquidity in the market, their presence does not directly impact the current price. This only occurs when a limit order is actually filled, typically by a market order. 
 
-A market order is used by a participant who wants to trade at the best price available at that point in time. The best price depends on where limit orders are present in relation to the price showed at the time of entry (hence why limit orders provide liquidity). If the best price is some distance from the the currently displayed price, then slippage may occur. In particular, large slippage can occur if there is a lot of competition to fill only a few availablelimit orders.  
+A market order is used by a participant who wants to trade at the best price available at that point in time. The best price depends on where limit orders are present in relation to the price showed at the time of entry (hence why limit orders provide liquidity). If the best price is some distance from the the currently displayed price, then slippage may occur. In particular, large slippage can occur if there is a lot of competition to fill only a few available limit orders.  
 
 Once a limit order is filled, a new current price is set. This means the current price on a chart represents the last transacted price, not the current bid or offer. If a long bodied candle is seen on a standard candle chart, this means that price has moved a long distance in relatively little time. Therefore, it is unlikely that much trading could have occurred at prices contained within the candle body. 
 
