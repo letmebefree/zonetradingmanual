@@ -10,8 +10,6 @@ Taking advantage of supply and demand requires an ability to quantify the number
 
 In reality, it is predominantly the retail traders that fill the institutional orders. After all, most institutions would not be prepared to increase their risk by entering at the current market price. Therefore, the retail traders have to be lured into the market and encouraged to trade at the required levels. This can happen when the level coincides with trend line breaks, Fibonacci levels and other technical indicators. Or it may happen based on favorable news announcements or with rapid momentum moves in price suggesting to the naive that price will continue in the same direction
 
-
-
 Whilst buy and sell limit orders create liquidity in the market, their presence does not directly impact the current price. This only occurs when a limit order is actually filled, typically by a market order. 
 
 A market order is used by a participant who wants to trade at the best price available at that point in time. The best price depends on where limit orders are present in relation to the price showed at the time of entry (hence why limit orders provide liquidity). If the best price is some distance from the the currently displayed price, then slippage may occur. In particular, large slippage can occur if there is a lot of competition to fill only a few available limit orders.  
