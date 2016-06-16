@@ -3,7 +3,7 @@
 * [Table Of Contents](SUMMARY.md)
 * [Introduction](Introduction.md)
 * [Supply And Demand](SupplyAndDemand.md)
-* Definitions
+* [Definitions](definitions.md)
 * [About ZoneTrader](About.md)
 * [Installation](Installation.md)
 * [Strategy Parameters](StrategyParameters.md)
