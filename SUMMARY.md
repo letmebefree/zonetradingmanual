@@ -8,4 +8,5 @@
 * [Strategy Parameters](StrategyParameters.md)
 * [Operating Modes](OperatingModes.md)
 * [Unknown](README.md)
+* Definitions
 
