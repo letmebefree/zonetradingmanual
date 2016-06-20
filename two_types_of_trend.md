@@ -1,7 +1,9 @@
 # Two Types of Trend
-When using the Zone-Trader expert adviser, two types of trend are commonly referred to. These are known as the "TDL trend" and the "standard trend" (also know as "the trend"). Both types are always stated in refernces to a specific time frame. For example, the TDL trend on a one hour chart may be up whilst the TDL trend on the daily chart is down.
+When using the Zone-Trader expert adviser, two types of trend are commonly referred to. These are known as the "TDL trend" and the "standard trend" (also know as "the trend"). Both types are always stated in reference to a specific time frame. For example, the TDL trend on a one hour chart may be up whilst the TDL trend on the daily chart is down.
 
-The TDL trend always refers to the more immediate direction of price as seen on a chart. The standard trend refers to the longer term movement of price, allowing for retracements that occur for the duration of that trend. 
+The TDL trend refers to the more immediate direction of price seen on a chart. For example, if there are successive bull candles, each with a higher close, then the TDL trend is considered up. 
+
+The standard trend refers to the longer term movement of price, ignoring temporary retracements that can still occur and price trends in a wave like motion.
 
 The image below clearly highlights the differences between the TDL trend and the standard trend
 
