@@ -9,6 +9,8 @@ The image below clearly highlights the differences between the TDL trend and the
 
 <insert image here>
 
-For a rule based strategy to apply, there must be clear criteria for determining the direction of the current trend (TDL and standard versions) as well as when retracement or consolidation is occuring. The expert adviser will always calculate the standard or TDL trend as either up or down. 
+The expert adviser uses very well defined rules to calculate the direction of both TDL and standard trends. These rules are always applied as of the last completed candle, which means the trend cannot change until the next candle is closed.
+
+
 
 
