@@ -9,4 +9,5 @@
 * [Strategy Parameters](StrategyParameters.md)
 * [Operating Modes](OperatingModes.md)
 * [Unknown](README.md)
+* Two Types of Trend
 
