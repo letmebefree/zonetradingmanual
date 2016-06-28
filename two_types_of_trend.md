@@ -11,6 +11,10 @@ The image below highlights the differences between the two types of trend.
 
 <insert image here>
 
+Typically, the standard trend on one time frame will be the same as the TDL trend on the next higher time frame. Below we can see the same chart as above, but on a higher time frame.
+
+<insert image here>
+
 The expert adviser uses very well defined rules to calculate the direction of both TDL and standard trends. These rules are always applied as of the last completed candle, which means the trend cannot change until the next candle is closed.
 
 
