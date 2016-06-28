@@ -1,4 +1,4 @@
-# Definitions
+# Glossary
 TDL Trend
 Trend
 Consolidation
