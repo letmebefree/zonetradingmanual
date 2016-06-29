@@ -10,5 +10,5 @@
 * [Operating Modes](OperatingModes.md)
 * [Glossary](glossary.md)
 * [ReadMe](README.md)
-* Understanding Retests
+* [Understanding Retests](UnderstandingRetests.md)
 
