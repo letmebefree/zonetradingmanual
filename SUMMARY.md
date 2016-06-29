@@ -13,5 +13,4 @@
 * [Glossary](glossary.md)
 * [ReadMe](README.md)
 * [Understanding Retests](UnderstandingRetests.md)
-* [Understanding Retests](understanding_retests.md)
 
