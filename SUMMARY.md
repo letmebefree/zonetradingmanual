@@ -1,5 +1,6 @@
 # Summary
 
+* [ReadMe](README.md)
 * [Table Of Contents](SUMMARY.md)
 * [Introduction](Introduction.md)
 * [Supply And Demand](SupplyAndDemand.md)
@@ -12,5 +13,4 @@
 * [Strategy Parameters](StrategyParameters.md)
 * [Operating Modes](OperatingModes.md)
 * [Glossary](glossary.md)
-* [ReadMe](README.md)
 
