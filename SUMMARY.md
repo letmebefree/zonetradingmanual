@@ -5,6 +5,7 @@
 * [Supply And Demand](SupplyAndDemand.md)
 * [About ZoneTrader](About.md)
 * [Two Types of Trend](TwoTypesOfTrend.md)
+* [Understanding Retests](UnderstandingRetests.md)
 * [Installation](Installation.md)
 * [Live Chart Analysis](LiveChartAnalysis.md)
 * [Back Testing](BackTesting.md)
@@ -12,5 +13,4 @@
 * [Operating Modes](OperatingModes.md)
 * [Glossary](glossary.md)
 * [ReadMe](README.md)
-* [Understanding Retests](UnderstandingRetests.md)
 
