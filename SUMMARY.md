@@ -11,6 +11,6 @@
 * [Glossary](glossary.md)
 * [ReadMe](README.md)
 * [Understanding Retests](UnderstandingRetests.md)
-* [Live Analysis](LiveAnalysis.md)
+* [Live Chart Analysis](LiveAnalysis.md)
 * Back Testing
 
