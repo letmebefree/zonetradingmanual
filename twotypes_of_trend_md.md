@@ -1,2 +1,0 @@
-# Two Types of Trend
-
