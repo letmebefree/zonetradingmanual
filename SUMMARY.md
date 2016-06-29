@@ -6,11 +6,11 @@
 * [About ZoneTrader](About.md)
 * [Two Types of Trend](TwoTypesOfTrend.md)
 * [Installation](Installation.md)
+* [Live Chart Analysis](LiveChartAnalysis.md)
 * [Back Testing](BackTesting.md)
 * [Strategy Parameters](StrategyParameters.md)
 * [Operating Modes](OperatingModes.md)
 * [Glossary](glossary.md)
 * [ReadMe](README.md)
 * [Understanding Retests](UnderstandingRetests.md)
-* [Live Chart Analysis](LiveChartAnalysis.md)
 
