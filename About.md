@@ -1,8 +1,6 @@
 # About The Zone-Trader EA
 
-Zone-Trader is an expert adviser (or trading robot) written for the MT4 and MT5 trading platforms. It's underlying approach is to identify regions of excess supply and demand across different time frames and visually represent these on charts in a way that allows traders to quickly identify when to buy, when to sell and when to stay out of the market. 
-
-Supply and demand zones can be filtered according to a large number of parameters.
+Zone-Trader is an expert adviser (or trading robot) written for the MT4 and MT5 trading platforms. It's underlying approach is to identify regions of excess supply and demand across different time frames and visually represent these on charts in a way that allows traders to quickly identify when to buy, when to sell and when to stay out of the market. Supply and demand zones can be filtered according to a large number of parameters.
 
 Factors associated with the zone itself includes values such as the depth of zone, past penetration of the zone, time since the zone formed, the time at which the zone formed, or the number of prior retests/touches of the zone. 
 
