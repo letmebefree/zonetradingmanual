@@ -1,8 +1,14 @@
 # About Zone-Trader
 
-Zone-Trader is an expert adviser (or trading robot) written for the MT4 or MT5 trading platforms. It's underlying approach is to identify zones of supply and demand across different time frames and represent these in a way that allows traders to quickly identify when to buy, when to sell and when to stay out of the market. 
+Zone-Trader is an expert adviser (or trading robot) written for the MT4 and MT5 trading platforms. It's underlying approach is to identify regions of excess supply and demand across different time frames and visually represent these on charts in a way that allows traders to quickly identify when to buy, when to sell and when to stay out of the market. 
 
-Identified supply and demand zones can be manually filtered according to a large number of parameters associated with either the zone itself, or the time when price comes back to retest the zone. The former includes values such as the depth of zone, penetration of the zone at the last retest, number of prior retests of the zone, or distance to the next opposing zone on the same time frame. In contrast, parameters associated with the time when price comes back to retest the zone include the hour of the day, the day of the week, position of price relative to a moving average, an RSI value, or the number of completed consolidation candles. All time based parameters are associated with a specific time frame. 
+Supply and demand zones can be filtered according to a large number of parameters.
+
+Factors associated with the zone itself includes values such as the depth of zone, past penetration of the zone, time since the zone formed, the time at which the zone formed, or the number of prior retests/touches of the zone. 
+
+Price action parameters may include the size of candles as price approaches/leaves the zone or the amount of time previously spent at the zone price level.
+
+Parameters associated with the time when price comes back to retest the zone include the hour of the day, the day of the week, time of year, the current session, or the value of a technical indicator when price retests the zone.
 
 By selecting multiple criteria to filter zones, we can consider only those zones thought to be high probability trading opportunities. A simple example of applying criteria to filter zones is to include only those where trades taken on retests would be in line with the current trend as of the time of retest, which have a depth of less than 50 pips.
 
