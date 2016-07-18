@@ -4,7 +4,7 @@
 * [Table Of Contents](SUMMARY.md)
 * [Introduction](Introduction.md)
 * [Supply And Demand](SupplyAndDemand.md)
-* [About ZoneTrader](About.md)
+* [About The Zone-Trader EA](About.md)
 * [Two Types of Trend](TwoTypesOfTrend.md)
 * [Understanding Retests](UnderstandingRetests.md)
 * [Installation](Installation.md)
