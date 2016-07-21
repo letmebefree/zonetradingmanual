@@ -14,5 +14,5 @@
 * [Operating Modes](OperatingModes.md)
 * [Supply And Demand](SupplyAndDemand.md)
    * Chart Indicators
-* [Glossary](glossary.md)
+* [Glossary](glossarymd.md)
 
