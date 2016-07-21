@@ -10,8 +10,8 @@
 * [EA Chart Indicators](EAChartIndicators.md)
 * [Understanding Retests](UnderstandingRetests.md)
 * [Installation](part2/Installation.md)
+* [Strategy Parameters](StrategyParameters.md)
 * [Live Chart Analysis](LiveChartAnalysis.md)
 * [Back Testing](BackTesting.md)
-* [Strategy Parameters](StrategyParameters.md)
 * [Operating Modes](OperatingModes.md)
 
