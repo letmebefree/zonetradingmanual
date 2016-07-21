@@ -8,7 +8,7 @@
 * [About The Zone-Trader EA](part2/AboutZoneTraderEA.md)
 * [EA Chart Indicators](EAChartIndicators.md)
 * [Understanding Retests](UnderstandingRetests.md)
-* [Installation](Installation.md)
+* [Installation](part2\Installation.md)
 * [Live Chart Analysis](LiveChartAnalysis.md)
 * [Back Testing](BackTesting.md)
 * [Strategy Parameters](StrategyParameters.md)
