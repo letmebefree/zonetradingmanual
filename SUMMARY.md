@@ -13,6 +13,5 @@
 * [Strategy Parameters](StrategyParameters.md)
 * [Operating Modes](OperatingModes.md)
 * [Supply And Demand](SupplyAndDemand.md)
-   * Chart Indicators
 * [Glossary](glossarymd.md)
 
