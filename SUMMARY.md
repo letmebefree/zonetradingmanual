@@ -1,7 +1,5 @@
 # Summary
 
-* [ReadMe](README.md)
-* [Table Of Contents](SUMMARY.md)
 * [Introduction](Introduction.md)
 * [Supply And Demand](part1/SupplyAndDemand.md)
 * [Identifying Trend](part1/IdentifyingTrend.md)
