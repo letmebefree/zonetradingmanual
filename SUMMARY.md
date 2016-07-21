@@ -3,9 +3,9 @@
 * [ReadMe](README.md)
 * [Table Of Contents](SUMMARY.md)
 * [Introduction](Introduction.md)
+* [About The Zone-Trader EA](About.md)
 * [Supply And Demand](SupplyAndDemand.md)
    * Chart Indicators
-* [About The Zone-Trader EA](About.md)
 * [Two Types of Trend](TwoTypesOfTrend.md)
 * [Understanding Retests](UnderstandingRetests.md)
 * [Installation](Installation.md)
