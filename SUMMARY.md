@@ -3,6 +3,7 @@
 * [ReadMe](README.md)
 * [Table Of Contents](SUMMARY.md)
 * [Introduction](Introduction.md)
+* [Glossary](Glossary.md)
 * [Supply And Demand](part1/SupplyAndDemand.md)
 * [Identifying Trend](part1/IdentifyingTrend.md)
 * [About The Zone-Trader EA](part2/AboutZoneTraderEA.md)
@@ -13,5 +14,4 @@
 * [Back Testing](BackTesting.md)
 * [Strategy Parameters](StrategyParameters.md)
 * [Operating Modes](OperatingModes.md)
-* [Glossary](Glossary.md)
 
