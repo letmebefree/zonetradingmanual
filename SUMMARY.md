@@ -12,6 +12,6 @@
 * [Installation](part2/Installation.md)
 * [Live Chart Analysis](LiveChartAnalysis.md)
 * [Back Testing](BackTesting.md)
-* [Glossary](Glossary.md)
 * [Operating Modes](OperatingModes.md)
+* [Glossary](Glossary.md)
 
