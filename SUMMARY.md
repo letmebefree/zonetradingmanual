@@ -3,7 +3,7 @@
 * [ReadMe](README.md)
 * [Table Of Contents](SUMMARY.md)
 * [Introduction](Introduction.md)
-* [Supply And Demand](SupplyAndDemand.md)
+* [Supply And Demand](Part1/SupplyAndDemand.md)
 * [Identifying Trend](TwoTypesOfTrend.md)
 * [About The Zone-Trader EA](About.md)
 * [Chart Indicators](chart_indicators.md)
