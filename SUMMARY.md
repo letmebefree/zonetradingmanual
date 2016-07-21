@@ -3,6 +3,7 @@
 * [ReadMe](README.md)
 * [Table Of Contents](SUMMARY.md)
 * [Introduction](Introduction.md)
+* Chart Indicators
 * [Supply And Demand](SupplyAndDemand.md)
    * Chart Indicators
 * [About The Zone-Trader EA](About.md)
