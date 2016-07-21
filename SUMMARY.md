@@ -6,7 +6,7 @@
 * [Supply And Demand](part1/SupplyAndDemand.md)
 * [Identifying Trend](part1/IdentifyingTrend.md)
 * [About The Zone-Trader EA](part2/AboutZoneTraderEA.md)
-* [Chart Indicators](ChartIndicators.md)
+* [EA Chart Indicators](ChartIndicators.md)
 * [Understanding Retests](UnderstandingRetests.md)
 * [Installation](Installation.md)
 * [Live Chart Analysis](LiveChartAnalysis.md)
