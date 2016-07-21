@@ -4,7 +4,7 @@
 * [Table Of Contents](SUMMARY.md)
 * [Introduction](Introduction.md)
 * [Supply And Demand](part1/SupplyAndDemand.md)
-* [Identifying Trend](TwoTypesOfTrend.md)
+* [Identifying Trend](IdentifyingTrend.md)
 * [About The Zone-Trader EA](About.md)
 * [Chart Indicators](ChartIndicators.md)
 * [Understanding Retests](UnderstandingRetests.md)
