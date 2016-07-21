@@ -3,6 +3,7 @@
 * [ReadMe](README.md)
 * [Table Of Contents](SUMMARY.md)
 * [Introduction](Introduction.md)
+* [Supply And Demand](SupplyAndDemand.md)
 * Chart Indicators
 * [About The Zone-Trader EA](About.md)
 * [Two Types of Trend](TwoTypesOfTrend.md)
@@ -12,6 +13,5 @@
 * [Back Testing](BackTesting.md)
 * [Strategy Parameters](StrategyParameters.md)
 * [Operating Modes](OperatingModes.md)
-* [Supply And Demand](SupplyAndDemand.md)
 * [Glossary](glossarymd.md)
 
