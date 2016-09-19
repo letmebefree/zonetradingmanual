@@ -1,6 +1,8 @@
 # Supply And Demand
 
-Supply and demand is the driver behind all price movement for any stock, currency, commodity or indeed, anything that can be bought or sold in a free market. To appreciate why, we must remember that there must always be a buyer and a seller for every completed transaction. The buyer has a maximum price they will pay the seller, whilst the seller has a minimum price at which they will sell to the buyer. When we consider that the market is made up of many buyers and sellers, all of whom have their own view of how much something is worth, there is nearly always going to be an imbalance of buyers and sellers at any given price point. This imbalance is what causes price to fluctuate between price levels.
+Supply and demand is the driver behind all price movement for any stock, currency, commodity or indeed, anything that can be bought or sold in a free market. 
+
+To appreciate this, we must remember that there must always be a buyer and a seller for every completed transaction. The buyer has a maximum price they will pay the seller, whilst the seller has a minimum price at which they will sell to the buyer. When we consider that the market is made up of many buyers and sellers, all of whom have their own view of how much something is worth, there is nearly always going to be an imbalance of buyers and sellers at any given price point. This imbalance is what causes price to fluctuate between price levels.
 
 To forecast price movements, we must compare the quantity of buy or sell orders at any given level with the number of  market participants that are prepared to take the other side of trades to have those orders filled. 
 
