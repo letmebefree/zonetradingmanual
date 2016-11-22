@@ -2,4 +2,4 @@ Zone trader tutor is a Metatrader 4 expert adviser used to identify supply and d
 
 My name is Graeme Dakers. I defined the zone trading concept used by the expert adviser and have spent many years developing its functionality, introducing many new features over this time. The Expert Adviser now includes strategies for stop management, target setting and position sizing, as well as continuous addition of new innovative parameters for determining the strength of supply and demand at any given zone.
 
-If you are interested in this way of trading and using the expert adviser, more information and access to the zone trader tutor can be found at www.letmebefree.com
+If you are interested in this way of trading and using the expert adviser, more information and access to the zone trader tutor can be found at [forum.letmebefree.com](www.letmebefree.com)
