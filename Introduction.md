@@ -1,6 +1,6 @@
 # Introduction
 
-This is a manual that explains the principles and usage of the Zone-Trader expert adviser, designed to identify high probability trading opportunities based on zones of supply and demand. 
+This is a manual that explains the principles and usage of the Zone-Trader expert adviser, designed to identify high probability trading opportunities based on supply and demand. 
 
 As a precursor to using the expert adviser, some explanation behind the principles of supply and demand is given, with instruction on  how to read price charts. 
 
