@@ -6,9 +6,11 @@ To appreciate this, we must remember that there must always be a buyer and a sel
 
 To forecast price movements, we must compare the quantity of buy or sell orders at any given level with the number of  market participants that are prepared to take the other side of trades. Typically it is always the banks or large institutions that create buy or sell orders as specific levels with careful risk management. It is the retail traders that usually take the other (losing) side of the trade.
 
-In essence, the two main elements that must be quantified are: how many orders are remaining unfilled at a given level; and how many additional participants are still entering the market at the current price to help propel price towards and then potentially beyond those orders.
+The two main elements that must be quantified are: 
+1. How many orders are remaining unfilled at a given level; and 
+2. How many additional participants are still entering the market at the current price to help propel price towards and then potentially beyond those orders.
 
-For example, lets assume there is a pile of sell limit orders remaining at a previous high above current price. The sellers must find buyers who are prepared to trade at that level. However, it may be that current buyers only want to trade at a lower price. It will be the buyers view on whether they can get a better price or not that will determine the action they take. 
+Let's assume there is a stack of sell limit orders at level above current price. The sellers must find buyers who are prepared to trade at that level. However, it may be that current buyers only want to trade at a lower price. It will be the buyers view on whether they can get a better price or not that will determine the action they take. 
 
 If there is a lot of competition to buy at a level (demand) those buyers may just get in while they can, without attempting to negotiate or wait for a lower price. If there are a lot of buyers jumping into a bullish trend, the most likely scenario is that the sell limit orders will be quickly filled by those trying to buy and price will then need to push higher to find more sellers. Conversely, if price is already at a new high and interest in buying is limited, the sellers may need to compromise and agree to trade at lower prices where they can find buyers prepared to enter the market.
 
