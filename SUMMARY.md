@@ -13,5 +13,4 @@
 * [Installation](part2/Installation.md)
 * [Live Chart Analysis](LiveChartAnalysis.md)
 * [Back Testing](BackTesting.md)
-* [Global Parameters](global-parameters.md)
 
