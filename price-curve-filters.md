@@ -32,17 +32,9 @@ This value represents the maximum value of the price curve percent value allowed
 
 The following chart shows H4 and D1 zones for GBPAUD on the H4 time frame. We see the extent of the higher time frame \(D1\) price curve, as well as the % value shown above each of two H4 zones.
 
-
-
-
-
 If we now set the parameter value to 60, the upper zone becomes inactive \(displayed using thin lines\), as shown in the chart below.
 
+If the restriction is further tightened by adjusting the parameter down to 50, both zones become inactive as shown below.
 
 
-If the restriction is further tightened by adjusting the parameter down to 50, both zones become inactive as shown below,
-
-
-
- ������v�;
 
