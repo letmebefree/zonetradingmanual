@@ -1,5 +1,7 @@
 # Zone Filter Parameters
 
+The following criteria are unique to zones and can be used to set the as active or in-active. By default, inactive zones will appear with thinner lines on a chart \(can also be set to disappear completely\) and will not be considered for setting orders when the EA is placed in auto-trading mode.
+
 **Trading Bias**
 
 The trading bias is used to filter out zones which are counter the trend for an associated time frame. The timeframe and direction may be set manually or calculated by the Expert Advisor according to the selected parameter value.
