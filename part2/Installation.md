@@ -20,11 +20,9 @@ To ensure you have the correct directory, do the following:
 
 6\) It the script or EA requires any parameters, a box will pop up where you can enter these before clicking on "OK". For example, Zone-Trader tutor requires that a username and license key are entered in order for it to work.
 
-_**Important**_
+_**Important!**_
 
 In order for the EA to work correctly, you must have your Metatrader EA settings \(Tools-&gt;Preferences\) something like below. In particular, the check box for "Allow DLL imports \(potentially dangerous, enable only for trusted applications\)". DLL imports are used for user authentication and obtaining time zone information.
 
 ![](/assets/import.png)
-
-
 
