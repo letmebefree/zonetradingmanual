@@ -6,7 +6,7 @@ There are three selectable modes of operation for Zone-Trader Tutor available at
 
 * EA\_MODE\_LIVE\_ANALYSIS 
 * EA\_MODE\_AUTO\_TRADING. 
-* EA\_MODE\_BACKTEST \(not currently available for use\)
+* EA\_MODE\_BACKTEST \(not currently available to use\)
 * EA\_MODE\_HISTORIC\_ZONES.
 
 Each of the modes are summarised below:
