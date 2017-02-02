@@ -10,5 +10,6 @@
 * [Global Parameters](global-parameters.md)
 * [Operating Modes](part2/OperatingModes.md)
 * [Auto-trading Parameters](auto-trading-parameters.md)
+* [Bias Filtering Parameters](bias-filtering-parameters.md)
 * [Zone Filterng Parameters](zone-filter-parameters.md)
 
