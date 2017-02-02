@@ -9,7 +9,6 @@
 * [Installation](part2/Installation.md)
 * [Global Parameters](global-parameters.md)
 * [Operating Modes](part2/OperatingModes.md)
-* [Installation](part2/Installation.md)
 * [Live Chart Analysis](LiveChartAnalysis.md)
 * [Back Testing](BackTesting.md)
 
