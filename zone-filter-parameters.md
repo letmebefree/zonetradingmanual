@@ -2,6 +2,14 @@
 
 The following criteria are unique to zones and can be used to set the as active or in-active. By default, inactive zones will appear with thinner lines on a chart \(can also be set to disappear completely\) and will not be considered for setting orders when the EA is placed in auto-trading mode.
 
+**Maximum prior retests of zone:**
+
+For each possible zone on the chart, the EA counts the number of times that price has left the zone and then come back to retest it. If the count is greater than the value of this parameter, the zone will be made inactive, For example if price has left and then returned to retest a zone twice, setting the value to 1 or lower will cause the zone to be inactive. The principle is that the more times price has retested a zone, the fewer institutional orders will be remaining to absorb the momentum and create a reversal.
+
+**Maximum zone penetration \(%\):**
+
+This parameter sets a maximum zone penetration allowed by price since the zone first formed. The principle behind this is that the further price has penetrated a zone, the closer it is getting to breaking the stop level. In practice, each zone on the chart probably contains one or more zones from lower time frames. Each of these lower time frame zones will present some resistance to price in the form of institutional orders placed by traders. Each time the zone is retested, orders at each level will be filled. Eventually all orders at all levels within the original zone will be filled and the zone will be broken.
+
 **Maximum zone depth in pips:**
 
 If the distance between the zone entry and stop level is greater than the parameter value supplied, the zone will be made inactive. It is preferable to trade zones with a smaller distance as these typically provider higher Reward to Risk potential and also allow larger positions sizes and therefore bigger potential profits without increasing overall risk exposure.
