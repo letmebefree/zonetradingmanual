@@ -9,4 +9,5 @@
 * [Installation](part2/Installation.md)
 * [Global Parameters](global-parameters.md)
 * [Operating Modes](part2/OperatingModes.md)
+* [Auto-trading Parameters](auto-trading-parameters.md)
 
