@@ -1,10 +1,14 @@
-# Two Types of Trend
-Trend is typically defined in many different ways by many different types of traders. However, when using zones a different approach is required than normal. The principle we work on is that supply and demand always creates the trend, which then dictates the direction of price movement. This means we cannot use trend to determine price movement as only one can be the cause of the other without creating a circular reference.
+# Trend
 
-Our definition of trend is simple. If price last touched or created a supply zone, then the trend is down. If price last touched or created a demand zone, then the trend is up. This approach enforces the idea that zones of supply and demand always reverse price. Therefore after a zone has recently been created or retouched, price will start to move  away from it until it touches an opposing zone to send it the other way.
+Trend can be defined in different ways by different traders. It is very hard to find a consistent definition However, when using zones a very specific, consistent and repeatable approach is required. 
 
-Of course, this does not mean that the new trend will last very long. The distance between zones is an important measure to analyse to understand how far price will move in one direction before it reverses in the opposite direction. Overlaying all these zones on top of each other dictates the longer term direction of price movement.
+The principle used by the EA is that imbalances between supply and demand create price movement, which then dictates the direction of the trend. This raises the question of whether trend is necessary to determine future price movement, or if trend is simply the consequence of supply and demand across multiple time frames producing a net movement on price?
 
+For purposes of trading supply and demand, the definition of trend is simple. When price last touched or created a supply zone, then the trend is down. Conversely, when price last touched or created a demand zone, then the trend must be up. 
 
+This approach is based on the idea that supply creates a downward pressure on price, whilst demand creates an upward pressure on price. When price has just left an area of supply, it must be moving lower and will continue to do so until the effects of demand start reducing the imbalance of buy and sell orders. Likewise, when price  has just touched demand, price movement or trend will change to up and will continue to be so until the imbalance of buy and sell order reverses once again. This continual changing of direction of trend is what causes price to move in waves as it progresses in the direction of the higher time frame trend.
 
+The EA does not particularly consider such a thing as a sideways trends, preferring to consider it as a series of alternate up and down trends, where price is trapped between supply and demand zones on the higher time frame.
+
+Of course, price movement is not just based on supply on supply and demand from a single time frame, but the resulting net effect from zones across multiple time frame. This is why it is important to understand what is happening across all time frames, in particular those longer term ones.
 
