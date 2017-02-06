@@ -1,10 +1,10 @@
 # Summary
 
-Supply and demand trading is an approach used by many successful traders to identify high probability trading opportunities, based on a strategy that seeks to identify where large institutions are  placing their own orders.
+Supply and demand trading is an approach used by many successful traders to identify high probability trading opportunities, through identification of zones where large institutions are going to be placing their orders.
 
-The accumulation of such orders often creates a a significant shift in the balance of buy and sell orders, commonly causing price to significantly retrace or reverse to resume a longer term trend seen on a higher time frame . 
+The accumulation of such orders in these zones create a a significant shift in the balance of buy and sell orders, commonly causing price to significantly retrace or reverse to resume a longer term trend seen on a higher time frame .
 
-Through identification of such levels on a chart, we can place our own limit orders just in front of where large institutions are doing exactly the same thing. By doing the same as large institutions, we are swimming with the tide and massively increasing our odds of consistent profitability.
+Through identification of such levels on a chart and quantifying the degree of imbalance present, we can place our own limit orders just in front of where large institutions are doing exactly the same thing. This allows us to swim in the same direction as the institutions, massively increasing our odds of consistent profitability.
 
 Zone-Trader tutor is a Meta-trader 4 expert adviser designed specifically to identify, filter and then display supply and demand zones across different time frames on a chart in a way that they can be effectively used in our trading. It allows traders to develop alternative strategies around these that can then be left to auto-trade.
 
