@@ -2,27 +2,27 @@
 
 Supply and demand is the driver behind all price movement for any stock, currency, commodity or indeed, anything that can be bought or sold in a free market.
 
-To appreciate this, we must remember that there is always be a buyer and a seller for every transaction. The buyer has a maximum price they want to pay for something, whilst the seller has a minimum price at which they will sell at. In practice, the market is made up of many different buyers and sellers, all of whom have their own view of how much something is worth and looking to buy or sell different volumes. 
+To appreciate this, we must remember that there is always be a buyer and a seller for every transaction. The buyer has a maximum price they want to pay for something, whilst the seller has a minimum price at which they will sell at. In practice, the market is made up of many different buyers and sellers, all of whom have their own view of how much something is worth and looking to buy or sell different volumes.
 
-Available buyers are looking always looking to purchase at prices lower than the available sellers are offering. This must be true, else buyers and sellers will already have transacted with each other at a price acceptable to both of them. 
+Available buyers are looking always looking to purchase at prices lower than the available sellers are offering. This must be true, else buyers and sellers will already have transacted with each other at a price acceptable to both of them.
 
 At any point in time, the difference between the lowest price someone is prepared to sell at and the highest price someone is prepared to buy at defines the spread.
 
 Whenever there is significantly more buying interest than selling, then prices must move up to a price where there are sufficient sellers available to meet the other side of all buy orders. Conversely, if there is significantly more selling interest than buying, then price must move down to a price where there are sufficient buyers to meet the other side of all sell orders. Only when the selling interest is exactly the same as the buying interest does price remain approximately constant.
 
-Typically, when there is significant imbalance between the buying and selling interest, the spread will increase as buyers and sellers close to current price are quickly absorbed, leaving only  those further away from each other. This can occur both at times of low volume, when there are very few market participants willing to trade, as well as when the volumes of buyers or sellers increase substantially relative to the other. 
+Typically, when there is significant imbalance between the buying and selling interest, the spread will increase as buyers and sellers close to current price are quickly absorbed, leaving only  those further away from each other. This can occur both at times of low volume, when there are very few market participants willing to trade, as well as when the volumes of buyers or sellers increase substantially relative to the other.
 
-To forecast price movements, we must quantify and compare the buying and selling interest  at any given price level. The buying interest is known as demand, whilst the selling interest is known as supply.  When there is an imbalance between supply and demand, then prices will necessarily move to try and restore the equilibrium. 
+To forecast price movements, we must quantify and compare the buying and selling interest  at any given price level. The buying interest is known as demand, whilst the selling interest is known as supply.  When there is an imbalance between supply and demand, then prices will necessarily move to try and restore the equilibrium.
 
 Buyer demand will tend to increase at prices further below current price.  That is, the cheaper something is relative to perceived current value, the more traders will be prepared to buy of it. Similarly, seller supply will increase at prices above current price. However, the relative change of buyers and sellers rarely changes in a linear fashion. That is, the increase in the number of buyers between prices 120 and 130 will not be the same as the increase in the number of buyers between 130 and 140. Typically,  orders accumulate zones, close to previous highs \(for sellers\) and previous lows \(for buyers\). These are levels where buyers and sellers perceive that they are getting best value for money.
 
---------------
+---
 
-The two main elements that must be quantified are:   
-1. How many orders are remaining unfilled at a given level; and   
+The two main elements that must be quantified are:  
+1. How many orders are remaining unfilled at a given level; and  
 2. How many additional participants are still entering the market at the current price to help propel price towards and then potentially beyond those orders.
 
-Let's assume there is a stack of sell limit orders at level above current price. The sellers must find buyers who are prepared to trade at that level. However, it may be that current buyers only want to trade at a lower price. It will be the buyers view on whether they can get a better price or not that will determine the action they take.
+Let's assume there is a large number of sell limit orders at a level not far above current price. The sellers must find buyers who are prepared to trade at that level. However, it may be that current buyers only want to trade at a lower price. It will be the buyers view on whether they can get a better price or not that will determine the action they take.
 
 If there is a lot of competition to buy at a level \(demand\) those buyers may just get in while they can, without attempting to negotiate or wait for a lower price. If there are a lot of buyers jumping into a bullish trend, the most likely scenario is that the sell limit orders will be quickly filled by those trying to buy and price will then need to push higher to find more sellers. Conversely, if price is already at a new high and interest in buying is limited, the sellers may need to compromise and agree to trade at lower prices where they can find buyers prepared to enter the market.
 
