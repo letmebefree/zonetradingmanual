@@ -2,11 +2,11 @@
 
 The Zone-Trader Tutor is an expert adviser \(or trading assistant\) written for the MT4 and MT5 trading platforms. It's underlying approach is to identify regions of excess supply and demand across different time frames and visually represent these on charts in a way that allows traders to quickly identify when to buy, when to sell and when to stay out of the market. Supply and demand zones can be filtered according to a large number of parameters.
 
-Factors associated with the zone itself includes values such as the depth of zone, past penetration of the zone, time since the zone formed, the time at which the zone formed, or the number of prior retests/touches of the zone.
+Factors associated with the zone itself includes  the depth of the zone, past penetration of the zone, the time since the zone formed, the time when the zone formed, or the number of prior retests/touches of the zone.
 
 Price action parameters may include the size of candles as price approaches/leaves the zone or the amount of time previously spent at the zone price level.
 
-Parameters associated with the time when price comes back to retest the zone include the hour of the day, the day of the week, time of year, the current session, or the value of a technical indicator when price retests the zone.
+Parameters associated with the time that price comes back to retest the zone include the hour of the day, the day of the week, time of year,or the value of a technical indicator.
 
 By selecting multiple criteria to filter zones, we can consider only those zones thought to be high probability trading opportunities. A simple example of applying criteria to filter zones is to include only those where trades taken on retests would be in line with the current trend as of the time of retest, which have a depth of less than 50 pips.
 
