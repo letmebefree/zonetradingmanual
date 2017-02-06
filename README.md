@@ -1,3 +1,5 @@
+# Summary
+
 Supply and demand trading is an approach used by many successful traders to identify high probability trading opportunities, based on a strategy that seeks to identify where large institutions are  placing their own orders.
 
 The accumulation of such orders often creates a a significant shift in the balance of buy and sell orders, commonly causing price to significantly retrace or even resume a higher time frame trend in the opposite direction. By identifying these levels on a chart, we can look for these significant imbalances of buy and sell orders and enter our own limit orders just in front of where large institutions are doing exactly the same thing, massively increasing our odds of consistent profitability.
