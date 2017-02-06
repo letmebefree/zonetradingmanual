@@ -7,11 +7,12 @@
 * [Zone-Trader Tutor](part2/AboutZoneTraderEA.md)
 * [Zones](zones.md)
 * [Strategies](strategies.md)
+* [Time frames](time-frames.md)
 * [Installation](part2/Installation.md)
 * [Global Parameters](global-parameters.md)
 * [Operating Modes](part2/OperatingModes.md)
 * [Auto-trading Parameters](auto-trading-parameters.md)
 * [Bias Filtering Parameters](bias-filtering-parameters.md)
 * [Zone Filterng Parameters](zone-filter-parameters.md)
-* Strategies
+* Time frames
 
