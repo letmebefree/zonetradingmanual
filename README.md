@@ -1,8 +1,10 @@
-Zone trader tutor is a Metatrader 4 expert adviser developed to identify supply and demand zones on a chart,  which can be filtered based on on zone attributes, technical indicators and price action. The resulting selection can be combined with further entry and exit criteria to develop strategies that the EA will then auto-trade on your behalf. 
+Supply and demand trading is an approach used by successful traders to identify high probability zones where large institutions are most likely to be placing their orders. The accumulation or orders at a level can create a a significant shift in the balance of buy and sell orders, commonly causing price to significantly retrace or resume a higher time frame trend in the opposite direction once it hits that level
 
-The expert adviser can become your own personal Forex trading tutor, guiding you through the complexities of trading the markets, demonstrating how to identify and then trade new strategies based on institutional orders.
+Zone trader tutor is a Metatrader 4 expert adviser designed to identify, filter and then display supply and demand zones that meet specified criteria on a chart. This allows traders to more easily identify levels that present high probability trading opportunities. Zones can be filtered based on on zone characteristics, values for technical indicators and price action. 
 
-My name is Graeme. I defined the zone trading concept used by the expert adviser and have spent many years developing its functionality, introducing many new features over this time. The Expert Adviser now includes strategies for stop management, target setting and position sizing, as well as continuous addition of new innovative parameters for determining the strength of supply and demand at any given zone.
+Selected zone criteria can be combined with further entry and exit requirements to develop strategies that the EA can auto-trade on your behalf whilst you sleep. The strategies allow you to determine entry levels, stop loss placement, target setting and alternative exit strategies \(trailing stops\), whilst also taking care of position sizing risk management.  
 
-If you are interested in this way of trading and using the expert adviser, more information and access to the zone trader tutor can be found at [letmebefree.com](/www.letmebefree.com)
+Through doing this, the expert adviser can become your own personal Forex trading tutor, guiding you through the complexities of trading the markets, demonstrating how to identify and then trade new strategies based on institutional orders.
+
+If you are interested in this way of trading and using Zone-Trader tutor for manual or automated trading, more information and details for accessing the expert advisor can be found at [letmebefree.com](/www.letmebefree.com).
 
