@@ -14,5 +14,5 @@
 * [Operating Modes](part2/OperatingModes.md)
 * [Auto-trading Parameters](auto-trading-parameters.md)
 * [Bias Filtering Parameters](bias-filtering-parameters.md)
-* Chart Indicators
+* [Price Curve Filters](price-curve-filters.md)
 
