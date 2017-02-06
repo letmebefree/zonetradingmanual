@@ -14,5 +14,4 @@
 * [Auto-trading Parameters](auto-trading-parameters.md)
 * [Bias Filtering Parameters](bias-filtering-parameters.md)
 * [Zone Filterng Parameters](zone-filter-parameters.md)
-* Time frames
 
