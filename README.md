@@ -2,7 +2,7 @@
 
 Supply and demand trading is an approach used by successful traders to find high probability trading opportunities through identification of zones where large institutions are also placing their orders.
 
-The accumulation of such institutional orders create a a significant shift in the balance of buy and sell orders, commonly causing price to significantly retrace or reverse to resume a longer term trend seen on a higher time frame .
+The accumulation of institutional orders often creates a significant shift in the balance of buy and sell orders at that level, thereby causing price to either significantly retrace or to resume a longer term trend.
 
 Through identification of such levels on a chart and then quantifying the degree of imbalance present, we can place our own limit orders just in front of where we expect large institutions to be doing exactly the same thing. This allows us to trade in the same direction as the large institutions, massively increasing our odds of consistent profitability.
 
