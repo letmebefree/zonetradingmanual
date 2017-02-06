@@ -28,5 +28,9 @@ On price charts, zones are colour coded based on the time frame that they are de
 * M5 – Aqua \(Light Blue\)
 * M1 – Yellow
 
+&lt;image colour coded zones&gt;
+
+
+
 
 
