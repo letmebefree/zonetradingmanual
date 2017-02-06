@@ -12,7 +12,7 @@ Once price has passed through a zone, that zone is considered invalid as there c
 
 In contrast, inactive zones have not yet been invalidated \(stopped out\), but have been excluded from consideration for trading purposes due to not meeting criteria for the strategy. However, inactive zones are still by default represented on a chart by thinner lines than those used for active zones \(this may be changed through parameters\)
 
-&lt;image&gt;
+&lt;image inactive zones&gt;
 
 Its important to remember that invalid zones will never be displayed or used by the EA, but inactive zones will only not be considered for possible trades but are still used  for calculations such as distance to next opposing zone and the derivation of a price curve.
 
