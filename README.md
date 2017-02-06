@@ -1,6 +1,6 @@
 # Summary
 
-Supply and demand trading is an approach used by many successful traders to find high probability trading opportunities, through identification of zones where large institutions are also placing their orders.
+Supply and demand trading is an approach used by successful traders to find high probability trading opportunities through identification of zones where large institutions are also placing their orders.
 
 The accumulation of such institutional orders create a a significant shift in the balance of buy and sell orders, commonly causing price to significantly retrace or reverse to resume a longer term trend seen on a higher time frame .
 
