@@ -1,6 +1,6 @@
 # Introduction
 
-This is a manual that explains the key principles and usage of the Zone-Trader expert adviser, for use in both short and long term trading strategies..
+This is a manual that explains the key principles behind and use of the Zone-Trader expert adviser, applicable to both short and long term trading strategies..
 
 As a precursor to using the expert adviser, some explanation behind the principles of supply and demand is given, with instruction on  how to read price charts.
 
