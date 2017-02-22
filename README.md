@@ -1,10 +1,8 @@
 # Summary
 
-Supply and demand trading is an approach used by successful traders to find high probability trading opportunities through identification of zones where large institutions are also placing their orders.
+Supply and demand trading is an approach used by consistently profitable traders to find high probability trading opportunities by identifying levels or zones where large institutions are going to be placing large orders. An accumulation of institutional orders creates a significant shift in the balance of buy and sell orders at that level, thereby causing price to either significantly retrace or to resume a longer term trend in the opposite direction once price hits that level.
 
-An accumulation of institutional orders creates a significant shift in the balance of buy and sell orders at that level, thereby causing price to either significantly retrace or to resume a longer term trend.
-
-Through identification of such levels on a chart and quantifying the degree of imbalance present, we can place our own limit orders just in front of where we expect large institutions to be doing exactly the same thing. This allows us to trade in the same direction as the large institutions, massively increasing our odds of consistent profitability.
+Through identification of such zones on a chart and quantifying the degree of imbalance present, we can place our own limit orders just in front of where we expect large institutions to be doing exactly the same thing. This allows us to trade in the same direction as the large institutions, massively increasing our odds of consistent profitability.
 
 Zone-Trader tutor is a Meta-trader 4 expert adviser that was specifically designed to identify, filter and display supply and demand zones from different time frames on a price chart so they can be most effectively used in assisting us with our trading. More importantly, the expert adviser can also be used to auto-trade strategies combining these filters with other criteria including values of technical indicators \(such as RSI and Bollinger Bands\),  recent price action, exit strategies and risk management. The expert adviser takes care of all aspects of the trade, including position sizing, setting targets, setting stop loss orders and risk management.
 
