@@ -1,10 +1,10 @@
 # Installation
 
-All the scripts and expert advisers I will share at [LetMeBeFree.com](/letmebefree.com) run under Metatrader 4 on a Windows platform \(should also work on Metatrader 5, but not tested\). In most cases, I will only provide the compiled version, meaning you will not be able to see the code used to perform the task. However, this does not stop you using them.
+All the scripts and expert advisers shared at [LetMeBeFree.com](/letmebefree.com) run under Metatrader 4 on a Windows platform. They should also work on Metatrader 5, but have been thoroughly tested on this platform. In most cases, I will only provide the compiled version \(a file with extention '.ex4'\), meaning you will not be able to see the code used to perform the task. However, this does not stop you using them.
 
-To install a script or expert adviser, you will need to copy the EX4 file into the relevant sub-directory of your Metatrader 4 installation.
+To install the expert adviser, you will need to copy the EX4 file into the relevant sub-directory of your Metatrader 4 installation.
 
-Scripts that run once, but do not remain on your chart must go into a sub-directory called "Scripts". Expert Advisers \(such as Zone-Trader Tutor\) that remain on your chart to repeatedly do something must go in a sub-directory called "Experts".
+Scripts that run once, but do not remain on your chart must go into a sub-directory called "Scripts".However,  Expert Advisers \(such as Zone-Trader Tutor\) that remain on your chart to repeatedly do something must go in a sub-directory called "Experts".
 
 To ensure you have the correct directory, do the following:
 
