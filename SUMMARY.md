@@ -14,7 +14,8 @@
 * [Auto-trading Parameters](auto-trading-parameters.md)
 * [Zone Display Filters](zone-display-filters.md)
 * [Bias Filters](bias-filtering-parameters.md)
-* [Price Curve Filters](price-curve-filters.md)
-* [Absolute Price Filters](absolute-price-filters.md)
 * [Bollinger Band Filters](bollinger-band-filters.md)
+* [Price Curve Filters](price-curve-filters.md)
+* [Overlapping Zone Filters](overlapping-zone-filters.md)
+* [Absolute Price Filters](absolute-price-filters.md)
 
