@@ -1,6 +1,6 @@
 # Supply And Demand
 
-Supply and demand is the driver behind all price movement for any stock, currency, commodity or indeed, anything that can be bought or sold in a free market.
+Supply and demand is the driver behind all price movement for any stock, currency, commodity; or indeed, anything that can be bought or sold in a free market.
 
 To appreciate this, we must remember that there is always be a buyer and a seller for every transaction. The buyer has a maximum price they want to pay for something, whilst the seller has a minimum price at which they will sell at. In practice, the market is made up of many different buyers and sellers, all of whom have their own view of how much something is worth and looking to buy or sell different volumes.
 

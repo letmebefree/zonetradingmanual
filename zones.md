@@ -30,7 +30,3 @@ On price charts, zones are colour coded based on the time frame that they are de
 
 &lt;image colour coded zones&gt;
 
-
-
-
-
