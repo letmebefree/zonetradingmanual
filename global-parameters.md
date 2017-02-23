@@ -41,7 +41,7 @@ This is a similar mode to EA\_MODE\_FREE, but applies to all time frames, not ju
 
 This mode must be selected when you want the EA to place a pending \(or market\) order when all criteria for the strategy settings are met. Zones are still displayed on the chart as happens in mode EA\_MODE\_LIVE\_ANALYSIS.
 
-\[**EA\_MODE\_BACKTEST - not currently available\]**
+**EA\_MODE\_BACKTEST  \[not currently available\]**
 
 Previous iterations of this EA have presented an option to back-test a strategy prior to running the strategy in Auto-Trading mode. However, this has not yet been implemented in the current version where the focus has been on the auto-trading functionality.
 
