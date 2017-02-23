@@ -96,19 +96,19 @@ If either the weekly move up, or weekly move down, have already exceeded the val
 
 As described above, the "Target type value" works in conjunction with the selected "Target type". For instance, if "Target type" is TARGET\_FIXED\_PIPS, setting this value to 50 means that the initial target will always be 50 pips from the entry level.
 
-**Reduce target by percentage \(0-100\)**
+**Reduce target by percentage \(0-100\):**
 
 This parameter is used to reduce the profit target by a set percentage in order to increase the probability that the target will be hit. This is to avoid trying to close an order at the time where there is significant competition with other traders.
 
-**Update target on new opposing zone**
+**Update target on new opposing zone:**
 
 If this parameter is set to true when the initial target is set to be based on an opposing zone, the EA will update the target for a trade when a fresh opposing zone forms on the same time frame as the zone used to generate the initial target. The new target will be calculated at the new zone entry, but modified by the Target Buffer or Reduce target by percentage
 
-Close trade when price hits opposing Bollinger Band:
+**Close trade when price hits opposing Bollinger Band:**
 
-If set to true, this parameters causes an active buy trade to be closed as soon as the high of the current candle touches the upper Bollinger band. An active sell trade will be closed as soon as the low of the current candle touches the lower Bollinger band
+If set to true, this parameters causes an active buy trade to be closed as soon as the high of the current candle touches the upper Bollinger band. An active sell trade will be closed as soon as the low of the current candle touches the lower Bollinger band. The principle behind this is that the Bollinger band represents a level where price has been over extended away from the moving average due to a strong move away from it. Therefore support or resistance from zones is likely to be move effective and a reversal is more likely. Typically, this would be used when price has been away from an old zone for long time and has only just come back to test it.
 
-**Minimum target Rs required**
+**Minimum target Rs required:**
 
 The value of 1R is always considered as the distance between the order entry and the stop loss. Once an initial target price for a zone has been calculated and set according to the previous setting, it will equate to a given multiple of Rs. In instances where this number of Rs is less than the parameter value, the zone will be considered invalid and no orders or trades will be placed on a retest.
 
