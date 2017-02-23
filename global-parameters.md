@@ -29,9 +29,9 @@ Each of the modes are summarised below:
 
 **EA\_MODE\_FREE**
 
-This is the default mode when the EA is first loaded. It is used to view zones on the daily, weekly or monthly charts without any trading capability. Setting maximum or minimum time frame to calculate will NOT override the zones calculated.
+This is the default mode when the EA is first loaded. It is used to view zones on the daily, weekly or monthly charts without any trading capability. Setting maximum or minimum time frame to calculate will NOT let you override the zones calculated by the EA.
 
-Whilst operating the EA in this mode, it is possible to filter the zones that appear using any parameters that appear in the sections \*\*\*ZONE\_FILTERS\*\*\*, \*\*\*PRICE CURVE FILTERS\*\*\* and \*\*\*RELATIVE ZONE FILTERS\*\*\*. Values being filtered by the parameters under these sections are those that only change when a new candle opens or when a zone is stopped out. It does not include any parameters filtering values that change every tick \(e.g. values of technical indicators, time of day\). Neither will any trading parameters be relevant in this mode.
+Whilst operating in this mode, it is possible to filter the zones using any parameters that appear in the sections \*\*\*ZONE\_FILTERS\*\*\*, \*\*\*PRICE CURVE FILTERS\*\*\* and \*\*\*RELATIVE ZONE FILTERS\*\*\*. Values being filtered by the parameters under these sections are those that only change when a new candle opens or when a zone is stopped out. It does not include any parameters filtering values that change every tick \(e.g. values of technical indicators, time of day\). Neither will any trading parameters be relevant for this mode.
 
 **EA\_MODE\_LIVE\_ANALYSIS**
 
