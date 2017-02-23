@@ -45,17 +45,23 @@ This mode must be selected when you want the EA to place a pending \(or market\)
 
 Previous iterations of this EA have presented an option to back-test a strategy prior to running the strategy in Auto-Trading mode. However, this has not yet been implemented in the current version where the focus has been on the auto-trading functionality.
 
-**Maximum/Minimum time frame to calculate:**
+**Maximum time frame to calculate:**
 
-These two parameters determine the highest and lowest time frames respectively for which zones will be calculated. It is beneficial to avoid calculating zones for very small time frames \(M15 or less\) as this can degrade the EA performance significantly. Setting of these values should be used in conjunction with “Candles to look back for zones” to optimise performance for the time frame that zones are required. As a general principle, when zones from a given time frame are not required for a strategy, it is better not to calculate them at all.
+This determines the highest time frame for which zones will be calculated. As a general principle, when zones from a specific time frame are not required for a strategy, it is better not to calculate them at all.
 
-**Candles to look back for zones:**
+**Minimum time frame to calculate:**
+
+This determines the lowest time frame for which zones will be calculated. It is beneficial to avoid calculating zones for very small time frames \(M15 or less\) as this can degrade the EA performance significantly. Setting of these values should be used in conjunction with “Candles to look back for zones” to optimise performance for the time frame that zones are required. As a general principle, when zones from a given time frame are not required for a strategy, it is better not to calculate them at all.
+
+**Candles to look back for zones \(0=all\):**
 
 This value determines the maximum number of historic candles the EA will look back when identifying and creating zones.
 
 For instance, if the value is set at 2000, but a zone that has not yet been stopped out was first created 3150 candles ago, this zone will neither appear on the chart or be considered by the strategy in any way. A value of about 8000 candles is recommended.
 
-**Candles to look back for zones \(0=all\):**
+A value of 0 means that all candles available on the broker server will be used. However, this can cause slow performance, especially when identifying zones for smaller time frames.
 
-f
+Place zone entries against candle bodies:
+
+This controls whether the entry level of zones are placed the low/high of a candle wick, or if it is pushed up against the candle bodies to minimise stop size.
 
