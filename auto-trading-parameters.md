@@ -48,29 +48,27 @@ The target will be set as the entry price for the next opposing zone on the same
 
 TARGET\_NEXT\_HTF\_ZONE
 
-The target will be set as the entry price for the next opposing zone on the next higher time frame to that for the zone which is being used to set the order entry. For example, for a pending sell order being placed at a H1 zone, the target will be the entry level for the closest demand zone on the H4 chart. This considers any zone that has not yet been stopped out, not just those that meet the current strategy’s criteria.
+The target will be set as the entry price for the next opposing zone on the next higher time frame to that of the zone being retested. For example, for a pending sell order being placed at a H1 zone, the target will be the entry level for the closest demand zone on the H4 chart. This considers any zone that has not yet been stopped out, not just those that meet the current strategy’s criteria.
 
 TARGET\_DAILY\_MOVE\_REMAINING
 
-The target will be set based on an average of previous daily up and down moves.
+The target will be set based on an average of the previous daily up and down price moves.
 
-The daily move for each candle is calculated based on whether the closing price of the candle was above \(bullish\) or below \(bearish\) the open price.
+The daily move for each candle is calculated as follows, based on whether the closing price of the candle was above \(bullish\) or below \(bearish\) the open price.
 
 For a bullish candle:
 
-·Daily move up = High – Low
-
-·Daily move down = Maximum of: High – Close, Open - Low
+* Daily move up = High – Low
+* Daily move down = Maximum of: High – Close, Open - Low
 
 For a bearish candle:
 
-·Daily move up = Maximum of: Close – Low, High – Open
+* Daily move up = Maximum of: Close – Low, High – Open
+* Daily move down = High - Low
 
-·Daily move down = High - Low
+The average move up and average move down for the previous nine daily candles are calculated. These are then compared with the current daily moves up and down to find the remaining potential move available for the day.
 
-The average move up and average move down for the previous nine daily candles are calculated. These are then compared with the current daily move up and current daily move down to find the remaining potential move available for the day.
-
-If the zone being retested is supply, the target is set as the entry level minus the remaining move down available. If the zone being retested is demand, the target is set as the entry level plus the remaining move up available.
+If the retested zone is supply, the target is set as the entry level minus the remaining move down available. If the retested zone is demand, the target is set as the entry level plus the remaining move up available.
 
 If either the daily move up, or daily move down, have already exceeded the value specified in the parameters, the target required would be a move in the opposing direction, which makes no sense. Therefore, before placing an order, the distance between the target and entry will be tested and no order will be placed if it is less than or equal to zero.
 
@@ -82,23 +80,21 @@ The weekly move for each candle is calculated based on whether the closing price
 
 For a bullish candle:
 
-·Weekly move up = High – Low
-
-·Weekly move down = Maximum of: High – Close, Open - Low
+* Weekly move up = High – Low
+* Weekly move down = Maximum of: High – Close, Open - Low
 
 For a bearish candle:
 
-·Weekly move up = Maximum of: Close – Low, High – Open
-
-·Weekly move down = High - Low
+* Weekly move up = Maximum of: Close – Low, High – Open
+* Weekly move down = High - Low
 
 The average move up and average move down for the previous nine daily candles are calculated. These are then compared with the current weekly move up and current weekly move down to find the remaining potential move available for the week.
 
 If either the weekly move up, or weekly move down, have already exceeded the value specified in the parameters, the target required would be a move in the opposing direction, which makes no sense. However, before placing an order, the distance between the target and entry is always tested and no order will be placed if it is less than or equal to zero.
 
-**Target Value:**
+**Target Type Value:**
 
-The target Value works in conjunction with the selected "Target type". For instance, if "Target type" is TARGET\_FIXED\_PIPS, setting this value to 50 means that the initial target will always be 50 pips from the entry level.
+As described above, the "Target type value" works in conjunction with the selected "Target type". For instance, if "Target type" is TARGET\_FIXED\_PIPS, setting this value to 50 means that the initial target will always be 50 pips from the entry level.
 
 **Minimum target Rs required**
 
