@@ -1,8 +1,8 @@
 # Trend
 
-Trend can be defined in different ways by different traders. It is very hard to find a consistent definition However, when using zones a very specific, consistent and repeatable approach is required.
+Trend can be defined in many different ways by different traders. It is very hard to find a consistent definition However, when using zones a very specific, consistent and repeatable approach is required.
 
-The principle used by the EA is that imbalances between supply and demand create price movement, which then dictates the direction of the trend. This raises the question of whether trend is necessary to determine future price movement, or if trend is simply the consequence of supply and demand across multiple time frames producing a net movement on price?
+The principle used by the EA is that imbalances between supply and demand create price movement, which dictates the direction of the trend. This raises the question of whether trend is necessary to determine future price movement, or if trend is simply the consequence of supply and demand across multiple time frames producing a net movement on price?
 
 For purposes of trading supply and demand, the definition of trend is kept simple. When price last touched or created a supply zone, then the trend is down. Conversely, when price last touched or created a demand zone, then the trend must be up.
 
