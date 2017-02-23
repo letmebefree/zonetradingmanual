@@ -108,6 +108,22 @@ If this parameter is set to true when the initial target is set to be based on a
 
 If set to true, this parameters causes an active buy trade to be closed as soon as the high of the current candle touches the upper Bollinger band. An active sell trade will be closed as soon as the low of the current candle touches the lower Bollinger band. The principle behind this is that the Bollinger band represents a level where price has been over extended away from the moving average due to a strong move away from it. Therefore support or resistance from zones is likely to be move effective and a reversal is more likely. Typically, this would be used when price has been away from an old zone for long time and has only just come back to test it.
 
+**BUFFER VALUES**
+
+**Entry Buffer in pips**
+
+The value in this parameter will move the order entry closer to price to give a higher probability of the order being triggered.
+
+**Stop buffer in pips**
+
+The value in this parameter will move the order stop loss further from price such that the order is not stopped out if price passes though it by just a few pips.
+
+**Target buffer in pips**
+
+As an alternative to the previous parameter, this can be used to reduce the calculated profit target by a set number of pips, instead of a percentage of the total profit target.
+
+**TRADE TARGET FILTERS**
+
 **Minimum target Rs required:**
 
 The value of 1R is always considered as the distance between the order entry and the stop loss. Once an initial target price for a zone has been calculated and set according to the previous setting, it will equate to a given multiple of Rs. In instances where this number of Rs is less than the parameter value, the zone will be considered invalid and no orders or trades will be placed on a retest.
@@ -119,24 +135,4 @@ The purpose of this parameter is to ensure that there is sufficient profit margi
 The distance between the order entry and the targe can be specified as a number of pips. Once an initial target price for a zone has been calculated and set according to the previous setting, it will equate to a given multiple of Pips. In instances where this number of Pips is less than the parameter value, the zone will be considered invalid and no orders or trades will be placed on a retest.
 
 The purpose of this parameter is to ensure that there is sufficient profit margin available relative to the risk associated with the trade.
-
-**Target buffer in pips**
-
-As an alternative to the previous parameter, this can be used to reduce the calculated profit target by a set number of pips, instead of a percentage of the total profit target.
-
-**Entry Buffer in pips**
-
-The value in this parameter will move the order entry closer to price to give a higher probability of the order being triggered.
-
-**Stop buffer in pips**
-
-The value in this parameter will move the order stop loss further from price such that the order is not stopped out if price passes though it by just a few pips.
-
-**No sell orders above this price**
-
-The value for this parameter can be set so that no sell orders will be placed above the specified price level. This is generally used to prevent further selling from occurring when price has made a significant bullish move, or broken above a key level
-
-**No buy orders below this price**
-
-The value for this parameter can be set so that no buy orders will be placed below the specified price level. This is generally used to prevent further buying from occurring when price has made a significant bearish move, or broken below a key level.
 
