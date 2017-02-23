@@ -12,7 +12,7 @@
 * [Installation](part2/Installation.md)
 * [Core Parameters](global-parameters.md)
 * [Auto-trading Parameters](auto-trading-parameters.md)
-* Zone Display Filters
+* [Zone Display Filters](zone-display-filters.md)
 * [Bias Filtering Parameters](bias-filtering-parameters.md)
 * [Price Curve Filters](price-curve-filters.md)
 
