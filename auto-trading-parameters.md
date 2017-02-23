@@ -4,7 +4,7 @@ The following parameters are applicable only when the EA is in auto-trading mode
 
 **Timeframe for placing trades:**
 
-Only zones from this time frame will be eligible for creating new limit orders when retested
+Only zones from the specified time frame will be eligible for creating new limit orders when retested
 
 **Target type for orders:**
 
@@ -96,6 +96,14 @@ If either the weekly move up, or weekly move down, have already exceeded the val
 
 As described above, the "Target type value" works in conjunction with the selected "Target type". For instance, if "Target type" is TARGET\_FIXED\_PIPS, setting this value to 50 means that the initial target will always be 50 pips from the entry level.
 
+**Reduce target by percentage \(0-100\)**
+
+This parameter is used to reduce the profit target by a set percentage in order to increase the probability that the target will be hit. This is to avoid trying to close an order at the time where there is significant competition with other traders.
+
+**Update target on new opposing zone**
+
+If this parameter is set to true when the initial target is set to be based on an opposing zone, the EA will update the target for a trade when a fresh opposing zone forms on the same time frame as the zone used to generate the initial target. The new target will be calculated at the new zone entry, but modified by the Target Buffer or Reduce target by percentage
+
 **Minimum target Rs required**
 
 The value of 1R is always considered as the distance between the order entry and the stop loss. Once an initial target price for a zone has been calculated and set according to the previous setting, it will equate to a given multiple of Rs. In instances where this number of Rs is less than the parameter value, the zone will be considered invalid and no orders or trades will be placed on a retest.
@@ -108,17 +116,9 @@ The distance between the order entry and the targe can be specified as a number 
 
 The purpose of this parameter is to ensure that there is sufficient profit margin available relative to the risk associated with the trade.
 
-**Reduce target by percentage**
-
-This parameter is used to reduce the profit target by a set percentage in order to increase the probability that the target will be hit. This is to avoid trying to close an order at the time where there is significant competition with other traders.
-
 **Target buffer in pips**
 
 As an alternative to the previous parameter, this can be used to reduce the calculated profit target by a set number of pips, instead of a percentage of the total profit target.
-
-**Update target on new opposing zone**
-
-If this parameter is set to true and the initial target is based on an opposing zone, the EA will recalculate the target for a trade if a new opposing zone forms on the same time frame was used to generate the initial target. It is considered that the new zone is new supply or demand that could reduce the initial target. The new target will be calculated at the new zone entry, but modified by the Target Buffer or Reduce target by percentage
 
 **Entry Buffer in pips**
 
