@@ -16,4 +16,5 @@
 * [Bias Filters](bias-filtering-parameters.md)
 * [Price Curve Filters](price-curve-filters.md)
 * [Absolute Price Filters](absolute-price-filters.md)
+* [Bollinger Band Filters](bollinger-band-filters.md)
 
