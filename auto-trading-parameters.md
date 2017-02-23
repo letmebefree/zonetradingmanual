@@ -1,16 +1,14 @@
 # Auto-trading Parameters
 
-The following parameters are only applicable when the EA is in auto-trading mode
+The following parameters are applicable only when the EA is in auto-trading mode
 
 **Timeframe for placing trades:**
 
-Only zones from the selected time frame will be used to create orders as price approaches for a retest.
+Only zones from this time frame will be eligible for creating new limit orders when retested
 
-**Target type for orders + Target Value:**
+**Target type for orders:**
 
-The value selected determines now initial trade targets are calculated by the EA. However, once the initial target has been calculated, it may be modified by some of the subsequent parameters.
-
-The target Value works in conjunction with some of the target type, or maybe ignored if not applicable.
+This determines how an initial trade target is calculated by the EA at the time of placing the order, making use of the following parameter "Target type value".  The following is a list of possible values for this parameter.
 
 TARGET\_NONE
 
@@ -18,35 +16,35 @@ No target will be calculated. Either the trade will be closed manually or the EA
 
 TARGET\_FIXED\_R
 
-The target will be calculated as a multiple of the number of pips between the order entry and the stop loss position. This is calculated based on the value of the Target type value. For example, if the stop is 20 pips away from the entry and Target type value is 2, then the target will be 40 pips from the entry.
+The target will be calculated as a multiple of the number of pips between the order entry and the stop loss position. This is calculated based on the value of the Target type value. For example, if the stop is 20 pips away from the entry and "Target type value" is 2, then the target will be 40 pips from the entry.
 
 TARGET\_FIXED\_PIPS
 
-The target will be a fixed number of pips away from the order entry.
+The target will be a fixed number of pips away from the order entry, the number of pips being determined by "Target type value".
 
 TARGET\_FIXED\_PRICE
 
-The target will be the price set for the parameter Target type value.
+The target will be the same as the price entered against the parameter Target type value.
 
 TARGET\_NEXT\_H1\_ZONE
 
-The target will be set as the entry price for the next opposing zone on the H1 time frame. For example, for a pending sell order being placed, the target will be the entry level for the closest demand zone on the H1 chart. This considers any zone that has not yet been stopped out, not just those that meet the current strategy’s criteria.
+The target will be set to be the entry price for the next opposing zone on the H1 time frame. For example, for if a pending sell order is being placed, the target will be the entry level for the closest demand zone on the H1 chart. This considers any zone that has not yet been stopped out, not just those that meet the current strategy’s criteria.
 
 TARGET\_NEXT\_H4\_ZONE
 
-The target will be set as the entry price for the next opposing zone on the H4 time frame. For example, for a pending sell order being placed, the target will be the entry level for the closest demand zone on the H4 chart. This considers any zone that has not yet been stopped out, not just those that meet the current strategy’s criteria.
+The target will be set as the entry price for the next opposing zone on the H4 time frame. For example, if a pending sell order is being placed, the target will be the entry level for the closest demand zone on the H4 chart. This considers any zone that has not yet been stopped out, not just those that meet the current strategy’s criteria.
 
 TARGET\_NEXT\_D1\_ZONE
 
-The target will be set as the entry price for the next opposing zone on the D1 time frame. For example, for a pending sell order being placed, the target will be the entry level for the closest demand zone on the D1 chart. This considers any zone that has not yet been stopped out, not just those that meet the current strategy’s criteria.
+The target will be set as the entry price for the next opposing zone on the D1 time frame. For example, if a pending sell order is being placed, the target will be the entry level for the closest demand zone on the D1 chart. This considers any zone that has not yet been stopped out, not just those that meet the current strategy’s criteria.
 
 TARGET\_NEXT\_W1\_ZONE
 
-The target will be set as the entry price for the next opposing zone on the H1 time frame. For example, for a pending sell order being placed, the target will be the entry level for the closest demand zone on the W1 chart. This considers any zone that has not yet been stopped out, not just those that meet the current strategy’s criteria.
+The target will be set as the entry price for the next opposing zone on the H1 time frame. For example, if a pending sell order is being placed, the target will be the entry level for the closest demand zone on the W1 chart. This considers any zone that has not yet been stopped out, not just those that meet the current strategy’s criteria.
 
 TARGET\_NEXT\_CTF\_ZONE
 
-The target will be set as the entry price for the next opposing zone on the same time frame as the zone which is being used to set the order entry. For example, for a pending sell order being placed at a H1 zone, the target will be the entry level for the closest demand zone on the H1 chart. This considers any zone that has not yet been stopped out, not just those that meet the current strategy’s criteria.
+The target will be set as the entry price for the next opposing zone on the same time frame \(the Current Time Frame\) as the zone which is being used to set the order entry. For example, for a pending sell order being placed at a H1 zone, the target will be the entry level for the closest demand zone on the H1 chart. This considers any zone that has not yet been stopped out, not just those that meet the current strategy’s criteria.
 
 TARGET\_NEXT\_HTF\_ZONE
 
@@ -97,6 +95,10 @@ For a bearish candle:
 The average move up and average move down for the previous nine daily candles are calculated. These are then compared with the current weekly move up and current weekly move down to find the remaining potential move available for the week.
 
 If either the weekly move up, or weekly move down, have already exceeded the value specified in the parameters, the target required would be a move in the opposing direction, which makes no sense. However, before placing an order, the distance between the target and entry is always tested and no order will be placed if it is less than or equal to zero.
+
+**Target Value:**
+
+The target Value works in conjunction with the selected "Target type". For instance, if "Target type" is TARGET\_FIXED\_PIPS, setting this value to 50 means that the initial target will always be 50 pips from the entry level.
 
 **Minimum target Rs required**
 
