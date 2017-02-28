@@ -4,11 +4,11 @@ The price curve is defined on a higher time frame and represents a range of pric
 
 For example, if the price curve time frame is defined from the D1 chart ,the closest daily supply and demand zones either side of the entry level will be used to define the price curve.
 
-For example, consider a supply zone on the H1 chart that we are considering trading as it is retested. A D1 chart price curve value of 0, means the entry level for the H1 zone is sitting exactly on the stop level of the closest daily supply zone above price. However, a value of 100 means its entry level is sitting exactly on the stop level of the closest daily demand zone.
+Lets look at a supply zone on the H1 chart that we are considering trading as it is retested. A D1 chart price curve value of 0, means the entry level for the H1 zone is sitting exactly on the stop level of the closest daily supply zone above price. However, a value of 100 means its entry level is sitting exactly on the stop level of the closest daily demand zone.
 
 The lower the price curve percentage is, the lower the zone is sitting on the higher time frame price curve and the higher the probability a trade will work in our favour. The value is representing how much of a trend has already occurred since the last retracement.
 
-The following chart shows how an H4 demand zone has its value on the Daily price curve calculated. If we were to consider an H4 supply zone, the price curve values would be reversed with 0% representing the stop level of the closest daily supply zone above price.
+The following chart shows an example where an H4 demand zone has its value on the Daily price curve calculated. If we were to consider an H4 supply zone, the price curve values would be reversed with 0% representing the stop level of the closest daily supply zone above price.
 
 ![](/assets/pricecurve1.png)
 
