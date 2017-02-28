@@ -22,15 +22,11 @@ The parameter **HTF of zone for which entry must be inside** determines the high
 
 The following charts show daily and H1 zones before and after applying the setting.
 
-In the first chart, we see many different H1 zones \(magenta\) with just a few daily zones \(red and emphasised with black arrows at their origination\). There is no correlation between them.
+In the first chart, we see many different H1 zones \(magenta\) with just a few daily zones \(red, with black arrows at their origin\).
 
 ![](/assets/insidehtf1.png)
 
-In the next chart, we show how H1 zones that do not fall inside a daily zone become inactive and disappear.
+In the next chart, we show how H1 zones that do not fall inside a daily zone become inactive and disappear. Only H1 zones that fall inside a daily zone remain active.
 
 ![](/assets/insidehtf2.png)
-
- 
-
-
 
