@@ -4,11 +4,11 @@ The following parameters are applicable only when the EA is in auto-trading mode
 
 **Timeframe for placing trades:**
 
-Only zones from the specified time frame will be eligible for creating new limit orders when retested
+Only zones from the specified time frame will be used for creating new limit orders during auto-testing
 
 **Target type for orders:**
 
-This determines how an initial trade target is calculated by the EA at the time of placing the order, making use of the following parameter "Target type value".  The following is a list of possible values for this parameter.
+This determines how an initial trade target is calculated by the EA at the time of placing the order, also making use of the parameter "Target type value".  The following is a list of possible values for the target type.
 
 TARGET\_NONE
 
