@@ -12,7 +12,7 @@ This determines how an initial trade target is calculated by the EA at the time 
 
 TARGET\_NONE
 
-No target will be calculated. Either the trade will be closed manually or the EA will close the trade based on price action or using a trailing stop of some description
+No target will be calculated. Either the trade will be closed manually or the EA will close the trade based on price action or using a trailing stop according to strategy settings.
 
 TARGET\_FIXED\_R
 
@@ -102,11 +102,11 @@ This parameter is used to reduce the profit target by a set percentage in order 
 
 **Update target on new opposing zone:**
 
-If this parameter is set to true when the initial target is set to be based on an opposing zone, the EA will update the target for a trade when a fresh opposing zone forms on the same time frame as the zone used to generate the initial target. The new target will be calculated at the new zone entry, but modified by the Target Buffer or Reduce target by percentage
+If this parameter is set to true, the EA will update the target for a trade when a fresh opposing zone forms on the same time frame as the zone used to create the order. The new target will be calculated at the fresh zone's entry, modified by the Target Buffer or Reduce target by percentage parameter.
 
 **Close trade when price hits opposing Bollinger Band:**
 
-If set to true, this parameters causes an active buy trade to be closed as soon as the high of the current candle touches the upper Bollinger band. An active sell trade will be closed as soon as the low of the current candle touches the lower Bollinger band. The principle behind this is that the Bollinger band represents a level where price has been over extended away from the moving average due to a strong move away from it. Therefore support or resistance from zones is likely to be move effective and a reversal is more likely. Typically, this would be used when price has been away from an old zone for long time and has only just come back to test it.
+If set to true, this parameters causes an active buy trade to be closed as soon as the high of the current candle touches the upper Bollinger band. An active sell trade will be closed as soon as the low of the current candle touches the lower Bollinger band. The principle behind this is that the Bollinger band represents a level where price has been over extended away from the moving average due to a strong move away from it. Therefore support or resistance from zones is likely to be move effective and a reversal of sorts is likely. 
 
 **BUFFER VALUES**
 
