@@ -98,7 +98,7 @@ As described above, the "Target type value" works in conjunction with the select
 
 **Reduce target by percentage \(0-100\):**
 
-This parameter is used to reduce the profit target by a set percentage in order to increase the probability that the target will be hit. This is to avoid trying to close an order at the time where there is significant competition with other traders.
+This parameter is used to reduce the profit target by a set percentage in order to increase the probability that the target will be hit. This is to avoid trying to close an order at the time where there is significant competition with other traders. Typically, it is used in conjunction with an opposing zone target type.
 
 **Update target on new opposing zone:**
 
