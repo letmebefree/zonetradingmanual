@@ -8,11 +8,11 @@ A list of zone identifiers, each one separated by a semi colon ';' can be entere
 
 ![](/assets/zonefilter.png)
 
-You will notice that the zone identifier displayed does not include the time frame, but this is required when setting up the parameter.
+You will notice that the zone identifier displayed does not include the time frame, but this is required when setting up the parameter to avoid any possible ambiguity.
 
 **Maximum zone depth in pips:**
 
-If the distance between the zone entry and stop level is greater than the parameter value supplied, the zone will be made inactive. It is preferable to trade zones with a smaller distance as these typically provider higher Reward to Risk potential and also allow larger positions sizes and therefore bigger potential profits without increasing overall risk exposure.
+If the distance between the zone entry and stop level is greater than the parameter value supplied, the zone will be made inactive. It is preferable to trade zones with a smaller distance as these typically provider higher Reward to Risk potential and also allow larger positions sizes and therefore bigger potential profits without increasing overall risk exposure. A very narrow zone \(e.g. a few pips\) can also be unrealistic to trade against considering variations in spread and general noise affecting price.
 
 **Minimum zone depth in pips:**
 
@@ -29,6 +29,4 @@ This parameter sets a maximum zone penetration allowed by price since the zone f
 **Maximum candles since zone formation:**
 
 If the number of candles that have closed since the zone formed is greater than the value specified, the zone will be made inactive. This allows for trading only rapid retests soon after a zone first forms, a useful method for getting into a new trend at the start. For example, when a chart is in an uptrend, you may want to enter on any rapid retracement back to demand that happens within 10 candles of the demand first being created. Setting the value of the parameter to 10 ensures that no orders are entered for this particular zone after 10 candles have completed.
-
-
 
