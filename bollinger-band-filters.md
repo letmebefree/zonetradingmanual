@@ -2,7 +2,9 @@
 
 Only zones touching Bollinger Bands:
 
-This filter checks whether any candle, between the start of the zone and the time when it first formed, is touching, breaking or outside of the upper or lower Bollinger band. In the case of a demand zone, it must be the lower Bollinger Band, whilst for a supply zone it must be the upper Bollinger band. The standard deviation and moving average for the Bollinger Band default to 2.0 and 20 respectively, but may  changed as required.
+This filter checks whether any candle, between the start of the zone and the time when it first formed, is touching, breaking or outside of the upper or lower Bollinger band. In the case of a demand zone, it must be the lower Bollinger Band, whilst for a supply zone it must be the upper Bollinger band. If no part of any candle is outside the respective band, the zone is made inactive.
+
+The standard deviation and moving average for the Bollinger Band default to 2.0 and 20 respectively, but may  changed as required.
 
 The following charts illustrate how this parameter filters out zones. The first chart shows the picture without any filtering applied.
 
