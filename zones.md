@@ -14,7 +14,7 @@ In contrast, inactive zones have not yet been invalidated \(stopped out\), but h
 
 &lt;image inactive zones&gt;
 
-Its important to remember that invalid zones will never be displayed or used by the EA, but inactive zones will only not be considered for possible trades but are still used  for calculations such as distance to next opposing zone and the derivation of a price curve.
+Its important to remember that invalid zones will never be displayed or used by the EA, but inactive zones will not be considered for possible trades but are still used  for calculations such as distance to next opposing zone and the derivation of a price curve. They may also be displayed on the chart, typically with thinner lines than active zones to differentiate them. It is possible to control the line widths, or prevent zones from being drawn at all using the EA display parameters.
 
 On price charts, zones are colour coded based on the time frame that they are derived from.  Colours used for each time frame are as follows:
 
