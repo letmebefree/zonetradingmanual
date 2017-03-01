@@ -17,6 +17,7 @@
 * [Target Definition](target-definition.md)
 * [Absolute Price Entry Filters](absolute-price-filters.md)
 * [Technical Indicator Criteria](technical-trading-filters.md)
+* [Alternative Trade Exits](alternative-trade-exits.md)
 * [Zone Display Filters](zone-display-filters.md)
 * [Target Based Filters](target-based-filters.md)
 * [Atrribute Filters ](atrribute-filters.md)
