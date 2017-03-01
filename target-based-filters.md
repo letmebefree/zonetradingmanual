@@ -1,4 +1,4 @@
-### **TRADE TARGET FILTERS**
+### **TARGET BASED FILTERS**
 
 **Minimum target Rs required:**
 
