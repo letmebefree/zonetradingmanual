@@ -57,3 +57,5 @@ Place zone entries against candle bodies:
 
 This controls whether the entry level of zones are placed the low/high of a candle wick, or if it is pushed up against the candle bodies to minimise stop size.
 
+
+
