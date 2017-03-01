@@ -4,7 +4,7 @@
 * [Introduction](Introduction.md)
 * [Supply And Demand](part1/SupplyAndDemand.md)
 * [Zone-Trader Tutor](part2/AboutZoneTraderEA.md)
-* [About Zones](zones.md)
+* [Zones](zones.md)
 * [Trend Definition](part1/IdentifyingTrend.md)
 * [Chart Indicators](chart-indicators.md)
 * [Strategies](strategies.md)
