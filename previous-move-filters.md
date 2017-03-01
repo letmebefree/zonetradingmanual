@@ -22,5 +22,3 @@ If the zone being retested is supply, the remaining move to occur is considered 
 
 If either the current candle move up, or move down, has already exceeded the value specified in the parameters, the potential move remaining becomes 0.
 
-
-
