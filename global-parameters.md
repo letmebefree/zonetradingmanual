@@ -1,4 +1,4 @@
-# CORE PARAMETERS
+# COMMON PARAMETERS
 
 The following core parameters control user authentication and operating mode of the EA. They are typically best stored as a in a Metatrader template so they do not need to be entered each time.
 
