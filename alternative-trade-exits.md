@@ -1,4 +1,4 @@
-### Alternative Trade Closing Criteria
+### Alternative Trade Exits
 
 **Close trade when price hits opposing Bollinger Band:**
 
