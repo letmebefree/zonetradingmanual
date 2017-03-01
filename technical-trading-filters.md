@@ -1,4 +1,4 @@
-# Technical Trading Criteria
+# Technical Entry Filters
 
 If criteria on technical indicators such as Bollinger bands and RSI have yet to be satisfied, then no orders can be placed. For Bollinger bands, this means if price is inside the Bollinger bands with the specified parameters \(i.e. price has not yet been sufficiently stretched away from the moving average\) For RSI, this means that the indicator needs to be showing oversold before a demand order is placed or overbought before sell order is placed.
 

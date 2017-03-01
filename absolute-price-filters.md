@@ -1,4 +1,4 @@
-# Absolute Price Filters
+# Absolute Price Entry Filters
 
 **No sell orders above this price**
 
