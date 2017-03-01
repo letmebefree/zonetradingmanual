@@ -17,5 +17,6 @@
 * [Bollinger Band Filters](bollinger-band-filters.md)
 * [Price Curve Filters](price-curve-filters.md)
 * [Overlapping Zone Filters](overlapping-zone-filters.md)
+* [Previous Move Filters](previous-move-filters.md)
 * [Absolute Price Filters](absolute-price-filters.md)
 
