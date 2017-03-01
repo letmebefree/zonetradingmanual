@@ -1,20 +1,8 @@
 # Auto-trading Parameters
 
-### Trading Time Frame
+The parameters in the following pages apply only to when the Expert Adviser is running in Auto-Trade mode
 
-**Timeframe for placing trades:**
-
-Only zones from the selected time frame will be used for creating new limit orders during auto-testing. If you wish to trade the same strategy for zones on multiple time frames, then multiple instances of the Expert Adviser must be set up on separate charts based on the same symbol.
-
-### Trade Entry Buffer Values
-
-**Entry Buffer in pips**
-
-The value in this parameter will move the order entry closer to price to give a higher probability of the order being triggered.
-
-**Stop buffer in pips**
-
-The value in this parameter will move the order stop loss further from price such that the order is not stopped out if price passes though it by just a few pips.
+### 
 
 ### Target Definition
 
@@ -131,6 +119,4 @@ If set to true, this parameters causes an active buy trade to be closed as soon 
 If set to true, the EA will close a trade as soon as a new candle occurs with its high one side of a moving average or Bollinger band and its open on the other side. One scenario is  used when trades are entered at Bollinger band extremes and you wish to exit the position as soon as price touches the corresponding moving average. A second scenario is when trades are entered close to a moving average and you wish to exit the trade as soon as price returns back to the outer Bollinger band.
 
 The parameters for the BolLinger bands and moving averages are taken from the global settings, defaulting to 20 period and standard deviation of 2.
-
-
 
