@@ -1,4 +1,4 @@
-# COMMON PARAMETERS
+# Shared Parameters
 
 The following core parameters control the operating mode and overall behavior of the EA. They are typically best stored as a in a Metatrader template so they do not need to be entered each time.
 
@@ -56,6 +56,4 @@ A value of 0 means that all candles available on the broker server will be used.
 Place zone entries against candle bodies:
 
 This controls whether the entry level of zones are placed the low/high of a candle wick, or if it is pushed up against the candle bodies to minimise stop size.
-
-
 

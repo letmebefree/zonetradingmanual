@@ -11,9 +11,11 @@
 * [Time frames](time-frames.md)
 * [Installation](part2/Installation.md)
 * [Authentication](authentication.md)
-* [Common Parameters](global-parameters.md)
+* [Shared Parameters](global-parameters.md)
 * [Auto-trading Parameters](auto-trading-parameters.md)
+* [General Trading Parameters](general-trading-parameters.md)
 * [Absolute Price Filters](absolute-price-filters.md)
+* [Target Definition](target-definition.md)
 * [Technical Trading Filters](technical-trading-filters.md)
 * [Zone Display Filters](zone-display-filters.md)
 * [Target Based Filters](target-based-filters.md)
@@ -23,5 +25,4 @@
 * [Price Curve Filters](price-curve-filters.md)
 * [Overlapping Zone Filters](overlapping-zone-filters.md)
 * [Previous Move Filters](previous-move-filters.md)
-* [General Trading Parameters](general-trading-parameters.md)
 
