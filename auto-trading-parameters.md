@@ -110,7 +110,7 @@ This parameter is used to reduce the profit target by a set percentage in order 
 
 As an alternative to the previous parameter, this can be used to reduce the calculated profit target by a set number of pips, instead of a percentage of the total profit target.
 
-### Tick Based Trade Closing Criteria
+### Alternative Trade Closing Criteria
 
 **Close trade when price hits opposing Bollinger Band:**
 
@@ -122,7 +122,7 @@ If set to true, the EA will close a trade as soon as a new candle occurs with it
 
 The parameters for the Bolinger bands and moving averages are taken from the global settings, defaulting to 20 period and standard deviation of 2.
 
-### TRADE ENTRY/TARGET **BUFFER VALUES**
+### Trade Entry Buffer Values
 
 **Entry Buffer in pips**
 
