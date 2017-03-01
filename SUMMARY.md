@@ -30,4 +30,5 @@
 * [Order Limits](order-limits.md)
 * [Stop Management](stop-management.md)
 * [Position Sizing](position-sizing.md)
+* [Display Customisation](chart-display-parameters.md)
 
