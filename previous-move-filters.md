@@ -22,3 +22,13 @@ If the zone being retested is supply, the remaining move to occur is considered 
 
 If either the current candle move up, or move down, has already exceeded the value specified in the parameters, the potential move remaining becomes 0.
 
+**Maximum daily move in pips:**
+
+This parameter prevents any orders from being placed in a set direction if a daily move in that direction that is greater that the entered parameter value has already taken place that day.
+
+**Maximum weekly move in pips:**
+
+This parameter prevents any orders from being placed in a set direction if a daily move in that direction that is greater that the entered parameter value has already taken place that day.
+
+
+
