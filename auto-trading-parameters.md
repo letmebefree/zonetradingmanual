@@ -106,6 +106,12 @@ This parameter is used to reduce the profit target by a set percentage in order 
 
 If this parameter is set to true, the EA will update the target for a trade when a fresh opposing zone forms on the same time frame as the zone used to create the order. The new target will be calculated at the fresh zone's entry, modified by the Target Buffer or Reduce target by percentage parameter.
 
+**Target buffer in pips**
+
+As an alternative to the previous parameter, this can be used to reduce the calculated profit target by a set number of pips, instead of a percentage of the total profit target.
+
+### Tick Based Trade Closing Criteria
+
 **Close trade when price hits opposing Bollinger Band:**
 
 If set to true, this parameters causes an active buy trade to be closed as soon as the high of the current candle touches the upper Bollinger band. An active sell trade will be closed as soon as the low of the current candle touches the lower Bollinger band. The principle behind this is that the Bollinger band represents a level where price has been over extended away from the moving average due to a strong move away from it. Therefore support or resistance from zones is likely to be move effective and a reversal of sorts is likely.
@@ -116,7 +122,7 @@ If set to true, the EA will close a trade as soon as a new candle occurs with it
 
 The parameters for the Bolinger bands and moving averages are taken from the global settings, defaulting to 20 period and standard deviation of 2.
 
-**BUFFER VALUES**
+### TRADE ENTRY/TARGET **BUFFER VALUES**
 
 **Entry Buffer in pips**
 
@@ -125,10 +131,6 @@ The value in this parameter will move the order entry closer to price to give a 
 **Stop buffer in pips**
 
 The value in this parameter will move the order stop loss further from price such that the order is not stopped out if price passes though it by just a few pips.
-
-**Target buffer in pips**
-
-As an alternative to the previous parameter, this can be used to reduce the calculated profit target by a set number of pips, instead of a percentage of the total profit target.
 
 **TRADE TARGET FILTERS**
 
