@@ -16,6 +16,7 @@
 * [General](general-trading-parameters.md)
 * [Target Definition](target-definition.md)
 * [Technical Entry Filters](technical-trading-filters.md)
+* [Time of Day Filters](time-of-day-filters.md)
 * [Alternative Trade Exits](alternative-trade-exits.md)
 * [Zone Filters](zone-display-filters.md)
 * [Target Based Filters](target-based-filters.md)
@@ -25,5 +26,4 @@
 * [Price Curve Filters](price-curve-filters.md)
 * [Zone Overlap Filters](overlapping-zone-filters.md)
 * [Previous Move Filters](previous-move-filters.md)
-* [Time of Day Filters](time-of-day-filters.md)
 
