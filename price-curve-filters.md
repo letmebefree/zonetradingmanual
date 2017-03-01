@@ -12,21 +12,21 @@ The following chart shows an example where an H4 demand zone has its value on th
 
 ![](/assets/pricecurve1.png)
 
-**Price curve time frame type \(1\):**
+**Price curve time frame type:**
 
 This parameter sets the time frame from which the price curve is defined. In the illustration above, it would have been set to CHART\_D1, so that the price curve is derived from the daily chart.
 
-**Minimum Rs to opposing zone on price curve \(1\):**
+**Minimum Rs to opposing zone on price curve:**
 
 Whilst the price curve percent represents where the zone entry sits on the higher time frame, it does not give any indication of absolute profit margin to the next opposing zone. Setting this parameter means that any zones with less than the specified number of R’s until the other end of the price curve are automatically set inactive and not used for trading \(1R represents the distance between the entry and stop levels of the retest zone\).
 
 The parameter can be used to stop retests of zones whose entry level is where a significant move on the higher time frame has already occurred.
 
-**Minimum Pips to opposing zone on price curve \(1\):**
+**Minimum Pips to opposing zone on price curve:**
 
 Very similar to the previous parameter, setting this means that any zones with less than the specified number of pips until the other end of the price curve are automatically set inactive and not used for trading.
 
-**Maximum percent already moved along price curve \(1\):**
+**Maximum percent already moved along price curve:**
 
 This value represents the maximum value of the price curve percent value allowed before a zone is set to inactive. For example, if a zone has its entry level sitting halfway between the closest supply and demand zones on the selected higher time frame chart, its percentage value will be 50%. Therefore, setting a maximum value any less that this will cause the zone to be made inactive.
 
