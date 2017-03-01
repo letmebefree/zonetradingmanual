@@ -98,13 +98,13 @@ If either the weekly move up, or weekly move down, have already exceeded the val
 
 As described above, the "Target type value" works in conjunction with the selected "Target type". For instance, if "Target type" is TARGET\_FIXED\_PIPS, setting this value to 50 means that the initial target will always be 50 pips from the entry level.
 
-**Reduce target by percentage \(0-100\):**
-
-This parameter is used to reduce the profit target by a set percentage in order to increase the probability that the target will be hit. This is to avoid trying to close an order at the time where there is significant competition with other traders. Typically, it is used in conjunction with an opposing zone target type.
-
 **Update target on new opposing zone:**
 
 If this parameter is set to true, the EA will update the target for a trade when a fresh opposing zone forms on the same time frame as the zone used to create the order. The new target will be calculated at the fresh zone's entry, modified by the Target Buffer or Reduce target by percentage parameter.
+
+**Reduce target by percentage \(0-100\):**
+
+This parameter is used to reduce the profit target by a set percentage in order to increase the probability that the target will be hit. This is to avoid trying to close an order at the time where there is significant competition with other traders. Typically, it is used in conjunction with an opposing zone target type.
 
 **Target buffer in pips**
 
