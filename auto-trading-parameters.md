@@ -4,7 +4,7 @@
 
 **Timeframe for placing trades:**
 
-Only zones from the specified time frame will be used for creating new limit orders during auto-testing
+Only zones from the selected time frame will be used for creating new limit orders during auto-testing. If you wish to trade the same strategy for zones on multiple time frames, then multiple instances of the Expert Adviser must be set up on separate charts based on the same symbol.
 
 ### Target Definition
 
