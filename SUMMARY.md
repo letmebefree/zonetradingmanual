@@ -28,4 +28,6 @@
 * [Previous Move Filters](previous-move-filters.md)
 * [Risk Management](risk-management.md)
 * [Order Limits](order-limits.md)
+* [Stop Management](stop-management.md)
+* [Position Sizing](position-sizing.md)
 
