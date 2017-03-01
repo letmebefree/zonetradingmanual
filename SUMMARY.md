@@ -13,6 +13,8 @@
 * [Authentication](authentication.md)
 * [Common Parameters](global-parameters.md)
 * [Auto-trading Parameters](auto-trading-parameters.md)
+* [Absolute Price Filters](absolute-price-filters.md)
+* [Technical Trading Filters](technical-trading-filters.md)
 * [Zone Display Filters](zone-display-filters.md)
 * [Target Based Filters](target-based-filters.md)
 * [Atrribute Filters ](atrribute-filters.md)
@@ -21,6 +23,4 @@
 * [Price Curve Filters](price-curve-filters.md)
 * [Overlapping Zone Filters](overlapping-zone-filters.md)
 * [Previous Move Filters](previous-move-filters.md)
-* [Absolute Price Filters](absolute-price-filters.md)
-* Technical Trading Filters
 
