@@ -15,7 +15,7 @@
 * [Auto-trading Parameters](auto-trading-parameters.md)
 * [General](general-trading-parameters.md)
 * [Target Definition](target-definition.md)
-* [Technical Indicator Criteria](technical-trading-filters.md)
+* [Technical Entry Filters](technical-trading-filters.md)
 * [Alternative Trade Exits](alternative-trade-exits.md)
 * [Zone Display Filters](zone-display-filters.md)
 * [Target Based Filters](target-based-filters.md)
