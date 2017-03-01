@@ -19,10 +19,10 @@
 * [Alternative Trade Exits](alternative-trade-exits.md)
 * [Zone Filters](zone-display-filters.md)
 * [Target Based Filters](target-based-filters.md)
-* [Atrribute Filters ](atrribute-filters.md)
+* [Zone Atrribute Filters ](atrribute-filters.md)
 * [Bias Filters](bias-filtering-parameters.md)
 * [Bollinger Band Filters](bollinger-band-filters.md)
 * [Price Curve Filters](price-curve-filters.md)
-* [Overlapping Zone Filters](overlapping-zone-filters.md)
+* [Zone Overlap Filters](overlapping-zone-filters.md)
 * [Previous Move Filters](previous-move-filters.md)
 
