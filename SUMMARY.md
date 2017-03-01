@@ -14,6 +14,7 @@
 * [Common Parameters](global-parameters.md)
 * [Auto-trading Parameters](auto-trading-parameters.md)
 * [Zone Display Filters](zone-display-filters.md)
+* [Target Based Filters](target-based-filters.md)
 * [Bias Filters](bias-filtering-parameters.md)
 * [Bollinger Band Filters](bollinger-band-filters.md)
 * [Price Curve Filters](price-curve-filters.md)
