@@ -19,4 +19,5 @@
 * [Overlapping Zone Filters](overlapping-zone-filters.md)
 * [Previous Move Filters](previous-move-filters.md)
 * [Absolute Price Filters](absolute-price-filters.md)
+* Technical Trading Filters
 
