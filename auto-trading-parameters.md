@@ -1,10 +1,12 @@
 # Auto-trading Parameters
 
-The following parameters are applicable only when the EA is in auto-trading mode
+### Trading Time Frame
 
 **Timeframe for placing trades:**
 
 Only zones from the specified time frame will be used for creating new limit orders during auto-testing
+
+### Target Definition
 
 **Target type for orders:**
 
