@@ -13,7 +13,7 @@
 * [Authentication](authentication.md)
 * [Shared Parameters](global-parameters.md)
 * [Auto-trading Parameters](auto-trading-parameters.md)
-* [General Trading Parameters](general-trading-parameters.md)
+* [General](general-trading-parameters.md)
 * [Target Definition](target-definition.md)
 * [Absolute Price Entry Filters](absolute-price-filters.md)
 * [Technical Indicator Criteria](technical-trading-filters.md)
