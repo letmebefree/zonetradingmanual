@@ -1,20 +1,20 @@
-DISPLAY PARAMETERS
+# DISPLAY PARAMETERS
 
-Hide chart indicators:
+**Hide chart indicators:**
 
 Setting this parameter to true will mean all EA indicators displayed at the top left of the chart will no longer be displayed. This can be used if the chart is already too cluttered and  you are not using this information for manual chart analysis.
 
-Label value to show on zones:
+**Label value to show on zones:**
 
 LABEL\_RETESTS
 
-With the default value, each zone line has a label such as D1 or S2. This indicates whether the line is demand \(D\) or supply \(S\) and how many retests of the zone have previously occurred. This label 
+With the default value, each zone line has a label such as D1 or S2. This indicates whether the line is demand \(D\) or supply \(S\) and how many retests of the zone have previously occurred. This label
 
 LABEL\_NONE
 
 No label is displayed on either of the zone lines
 
-Timeframes for zones to display on chart:
+**Timeframes for zones to display on chart:**
 
 This parameter controls which of the different time frame zones you will see on each of the different time frame charts \(if the zones have not been calculated for the time frame, they cannot be displayed regardless\).
 
@@ -40,21 +40,21 @@ Only weekly and daily zones will be displayed. Daily zones will not appear on W1
 
 CHILD\_ONLY
 
-Only zones relevant to the chart being displayed will be visible. This provides the least amount of clutter possible during manual trading. 
+Only zones relevant to the chart being displayed will be visible. This provides the least amount of clutter possible during manual trading.
 
 ![](/assets/display3.png)
 
-CHILD\_WITH\_DAILY    
+CHILD\_WITH\_DAILY
 
 Only the zones relevant to the time frame of the chart being viewed and the daily time frame will be displayed. Daily zones will not be displayed on the W1 or MN1 charts. This is shown below on an H4 chart.
 
 ![](/assets/display4.png)
 
-CHILD\_WITH\_WEEKLY  
+CHILD\_WITH\_WEEKLY
 
 Only the zones relevant to the time frame of the chart being viewed and the weekly time frame will be displayed. Daily zones will not be displayed on the MN1 charts.
 
-CHILD\_WITH\_WEEKLY\_AND\_DAILY  
+CHILD\_WITH\_WEEKLY\_AND\_DAILY
 
 Only the zones relevant to the time frame of the chart being viewed, the daily time frame and the weekly time frame will be displayed. Daily zones will not be displayed on the W1 or MN1 charts. Weekly zones will not be displayed on the MN1 chart.
 
@@ -62,9 +62,7 @@ CHILD\_WITH\_H1
 
 Only the zones relevant to the time frame of the chart being viewed and the H1 time frame will be displayed. This is mainly useful for when manually trading very smaller time frames such as from M15 or M5 charts.
 
-
-
-CHILD\_AND\_ONE\_HIGHER\_TIMEFRAME 
+CHILD\_AND\_ONE\_HIGHER\_TIMEFRAME
 
 Only the zones relevant to the time frame of the chart being viewed and the next higher time frame will be displayed. For example, if viewing the H1 chart, only zones from the H1 and H4 time frames will be displayed. When viewing the MN1 chart, only zones from the monthly time frame will be displayed.
 
@@ -82,13 +80,13 @@ The zones relevant to the time frame of the chart being viewed and one lower tim
 
 This can be useful if you are trading a time frame such as the H4 manually, but would like to fine tune your entry using a zone from the next smaller time frame.
 
- ![](/assets/display7.png)
+![](/assets/display7.png)
 
-Valid zone line width:
+**Valid zone line width:**
 
 The value of this parameter determines the width of lines for active zones shown on the chart
 
-Invalid zone line width:
+**Invalid zone line width:**
 
 The value of this parameter determines the width of lines for zones that are not active. Setting this value to WIDTH\_0 means that inactive zones will not be displayed on the chart. However, it is sometimes useful to at least know of their existence, even if you are not interested in trading retests of them.
 
