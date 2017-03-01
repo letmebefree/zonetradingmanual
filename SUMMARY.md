@@ -17,7 +17,7 @@
 * [Target Definition](target-definition.md)
 * [Technical Entry Filters](technical-trading-filters.md)
 * [Alternative Trade Exits](alternative-trade-exits.md)
-* [Zone Display Filters](zone-display-filters.md)
+* [Zone Filters](zone-display-filters.md)
 * [Target Based Filters](target-based-filters.md)
 * [Atrribute Filters ](atrribute-filters.md)
 * [Bias Filters](bias-filtering-parameters.md)
