@@ -10,5 +10,5 @@ Through doing all this, the expert adviser can become our own personal Forex tra
 
 The expert adviser enables a huge range of alternative strategies across multiple currency pairs for both short and long term trading and is being continuously enhanced to add new filters and trading criteria that will enhance its performance and generate new strategies as further insights into identifying high probability trades from supply and demand are established.
 
-If you are interested in this way of trading and using Zone-Trader tutor for either manual or automated trading, more information and details for accessing the expert adviser can be found at [letmebefree.com](/www.letmebefree.com).
+If you are interested in this way of trading and using Zone-Trader tutor for either manual or automated trading and do not yet have possession of the Zone Trader Tutor Expert Advisor, more information and details for accessing the expert adviser can be found at [letmebefree.com](/www.letmebefree.com).
 
