@@ -1,15 +1,13 @@
-# Trend
+# Trend Definition
 
 Trend can be defined in many different ways by different traders. It is very hard to find a consistent definition However, when using zones a very specific, consistent and repeatable approach is required.
 
-Two different trend definitions have been implemented for use within the EA. 
+Two different trend definitions have been implemented for use within the EA.
 
 * TREND\_BY\_ZONE - The trend is determined according to the last zone touched by price
 * TREND\_BY\_MA - The trend is determined by relative position of a 10 period EMA and a 12 period SMA
 
 The preferred choice can be selected by changing the  shared parameter "Method for calculating bias trends"
-
-
 
 TREND\_BY\_ZONE
 
@@ -27,11 +25,9 @@ TREND\_BY\_MA
 
 This gives a more traditional indication of which way price is moving, looking at the relative positions of a 10 period exponential moving average and a 12 period simple moving average. If the faster moving EMA is above the slower moving SMA, then the trend is considered up . If the relative positions are reversed, the trend is considered down
 
-
-
 My own preference is to use TREND\_BY\_ZONE as I work on the basis that trend is detemined by zones and therefore we should not be using trends to determine which zones to trade off. In addition, during ranging periods, the traditional trend indicator that lags actual price movement can be somewhat unreliable.
 
 The TREND\_BY\_MA is a more traditional definition of trend and many traders would want only want to trade in the direction of this trade on a higher time frame such as the weekly chart.
 
-
+![](/assets/H4trendDefintions.JPG)
 
