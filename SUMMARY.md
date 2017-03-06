@@ -15,7 +15,5 @@
   * [Operating Modes](Quick Start/OperatingModes.md)
   * [Chart Indications](Quick Start/Chart-Indications.md)
   * [Time Frames](Quick Start/time-frames.md)
-  * Available Currency Pairs
-
-
+  * [Available Currency Pairs](Quick Start/AvailableCurrencyPairs.md)
 
