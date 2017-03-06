@@ -1,10 +1,10 @@
 # CHART DISPLAY PARAMETERS
 
-**Hide chart indicators:**
+## **Hide chart indicators:**
 
 Setting this parameter to true will mean all EA indicators displayed at the top left of the chart will no longer be displayed. This can be used if the chart is already too cluttered and  you are not using this information for manual chart analysis.
 
-**Label value to show on zones:**
+## **Label value to show on zones:**
 
 LABEL\_RETESTS
 
@@ -14,7 +14,7 @@ LABEL\_NONE
 
 No label is displayed on either of the zone lines
 
-**Timeframes for zones to display on chart:**
+## **Timeframes for zones to display on chart:**
 
 This parameter controls which of the different time frame zones you will see on each of the different time frame charts \(if the zones have not been calculated for the time frame, they cannot be displayed regardless\).
 
@@ -82,11 +82,11 @@ This can be useful if you are trading a time frame such as the H4 manually, but 
 
 ![](/assets/display7.png)
 
-**Valid zone line width:**
+## **Valid zone line width:**
 
 The value of this parameter determines the width of lines for active zones shown on the chart
 
-**Invalid zone line width:**
+## **Invalid zone line width:**
 
 The value of this parameter determines the width of lines for zones that are not active. Setting this value to WIDTH\_0 means that inactive zones will not be displayed on the chart. However, it is sometimes useful to at least know of their existence, even if you are not interested in trading retests of them.
 
