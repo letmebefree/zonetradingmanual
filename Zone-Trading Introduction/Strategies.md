@@ -1,4 +1,4 @@
-# STRATEGIES
+# Strategies
 
 For the purposes of the EA, a strategy is defined as a set of parameters with given values.
 
