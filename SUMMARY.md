@@ -9,11 +9,11 @@
   * [Retests](Key Concepts/Retests.md)
   * [Strategies](Key Concepts/Strategies.md)
 * Quick Start
-  * About Zone-Trader Tutor
-  * Installation
-  * Authentication
-  * Operating Modes
-  * Chart Indicators
+  * [About Zone-Trader Tutor](Quick Start/About.md)
+  * [Installation](Quick Start/Installation.md)
+  * [Authentication](Quick Start/Authentication.md)
+  * [Operating Modes](Quick Start/OperatingModes.md)
+  * Chart Indications
   * Time Frames
   * Currency Pairs
 
