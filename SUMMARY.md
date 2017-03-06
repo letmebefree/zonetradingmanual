@@ -13,7 +13,7 @@
   * [Installation](Quick Start/Installation.md)
   * [Authentication](Quick Start/Authentication.md)
   * [Operating Modes](Quick Start/OperatingModes.md)
-  * Chart Indications
+  * [Chart Indications](Quick Start/Chart-Indications.md)
   * Time Frames
   * Currency Pairs
 
