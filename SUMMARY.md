@@ -1,10 +1,8 @@
 # Summary
 
-## Introduction To Zone Trader
-
-* [Supply And Demand](part1/SupplyAndDemand.md)
 * [Introduction](Introduction.md)
 * [Summary](README.md)
+* [Supply And Demand](part1/SupplyAndDemand.md)
 * [Zone-Trader Tutor](part2/AboutZoneTraderEA.md)
 * [Zones](zones.md)
 * [Trend Definition](part1/IdentifyingTrend.md)
@@ -33,4 +31,6 @@
 * [Stop Management](stop-management.md)
 * [Position Sizing](position-sizing.md)
 * [Display Customisation](chart-display-parameters.md)
+
+
 
