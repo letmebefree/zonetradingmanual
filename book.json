@@ -4,8 +4,8 @@
         "autocover": {
                 // Configuration for autocover (see below)
                 {
-                "title": "My Book",
-                "author": "Author",
+                "title": "Zone Trading",
+                "author": "Graeme Dakers",
                 "pluginsConfig": {
                     "autocover": {
                         "font": {
