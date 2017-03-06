@@ -1,4 +1,4 @@
-# DISPLAY PARAMETERS
+# CHART DISPLAY PARAMETERS
 
 **Hide chart indicators:**
 

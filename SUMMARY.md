@@ -2,15 +2,14 @@
 
 * [Introduction](Introduction.md)
 * [Summary](README.md)
-* [Zone Trading](part2/AboutZoneTraderEA.md)
-  * [Time frames](Introduction to Zone-Trader/time-frames.md)
-  * [Supply And Demand](Introduction to Zone-Trader/SupplyAndDemand.md)
-  * [Zones](Introduction to Zone-Trader/zones.md)
-  * [Trend Definition](Introduction to Zone-Trader/TrendDefinition.md)
-  * [Chart Indicators](Introduction to Zone-Trader/chart-indicators.md)
-  * [Strategies](Introduction to Zone-Trader/strategies.md)
-* [Expert Advisor](/Expert Advisor)
-  * [Installation](part2/Installation.md)
-  * [Authentication](authentication.md)
-  * Operating Modes
+* [Zone Trading Introduction](part2/AboutZoneTraderEA.md)
+  * [Supply and Demand](/Zone-Trading Introduction/SupplyAndDemand.md)
+  * [Time frames](/Zone-Trading Introduction/time-frames.md)
+  * [Trend Definition](/Zone-Trading Introduction/TrendDefinition.md)
+  * [Zones](/Zone-Trading Introduction/zones.md)
+  * [Retests](/Zone-Trading Introduction/Retests.md)
+
+
+
+
 
