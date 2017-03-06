@@ -7,7 +7,7 @@
   * [Supply And Demand](Introduction to Zone-Trader/SupplyAndDemand.md)
   * [Zones](Introduction to Zone-Trader/zones.md)
   * [Trend Definition](Introduction to Zone-Trader/TrendDefinition.md)
-  * [Chart Indicators](chart-indicators.md)
+  * [Chart Indicators](Introduction to Zone-Trader/chart-indicators.md)
   * [Strategies](strategies.md)
 * [Installation](part2/Installation.md)
 * [Authentication](authentication.md)
