@@ -1,4 +1,0 @@
-# Absolute Price Entry Filters
-
-
-

@@ -1,8 +1,10 @@
 # Summary
 
-* [Summary](README.md)
-* [Introduction](Introduction.md)
+## Introduction To Zone Trader
+
 * [Supply And Demand](part1/SupplyAndDemand.md)
+* [Introduction](Introduction.md)
+* [Summary](README.md)
 * [Zone-Trader Tutor](part2/AboutZoneTraderEA.md)
 * [Zones](zones.md)
 * [Trend Definition](part1/IdentifyingTrend.md)
