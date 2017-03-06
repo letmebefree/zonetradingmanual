@@ -3,12 +3,12 @@
 * [Introduction](Introduction.md)
 * [Summary](README.md)
 * [Zone-Trader Tutor](part2/AboutZoneTraderEA.md)
-  * [Supply And Demand](part1/SupplyAndDemand.md)
-  * [Zones](zones.md)
+  * [Time frames](Introduction to Zone-Trader/time-frames.md)
+  * [Supply And Demand](Introduction to Zone-Trader/SupplyAndDemand.md)
+  * [Zones](Introduction to Zone-Trader/zones.md)
   * [Trend Definition](part1/IdentifyingTrend.md)
-* [Chart Indicators](chart-indicators.md)
-* [Strategies](strategies.md)
-* [Time frames](time-frames.md)
+  * [Chart Indicators](chart-indicators.md)
+  * [Strategies](strategies.md)
 * [Installation](part2/Installation.md)
 * [Authentication](authentication.md)
 * [Shared Parameters](global-parameters.md)
@@ -31,6 +31,4 @@
 * [Stop Management](stop-management.md)
 * [Position Sizing](position-sizing.md)
 * [Display Customisation](chart-display-parameters.md)
-
-
 
