@@ -2,10 +2,10 @@
 
 * [Introduction](Introduction.md)
 * [Summary](README.md)
-* [Supply And Demand](part1/SupplyAndDemand.md)
 * [Zone-Trader Tutor](part2/AboutZoneTraderEA.md)
-* [Zones](zones.md)
-* [Trend Definition](part1/IdentifyingTrend.md)
+  * [Supply And Demand](part1/SupplyAndDemand.md)
+  * [Zones](zones.md)
+  * [Trend Definition](part1/IdentifyingTrend.md)
 * [Chart Indicators](chart-indicators.md)
 * [Strategies](strategies.md)
 * [Time frames](time-frames.md)
