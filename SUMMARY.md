@@ -6,7 +6,7 @@
   * [Time frames](Introduction to Zone-Trader/time-frames.md)
   * [Supply And Demand](Introduction to Zone-Trader/SupplyAndDemand.md)
   * [Zones](Introduction to Zone-Trader/zones.md)
-  * [Trend Definition](part1/IdentifyingTrend.md)
+  * [Trend Definition](Introduction To Zone-Trader/IdentifyingTrend.md)
   * [Chart Indicators](chart-indicators.md)
   * [Strategies](strategies.md)
 * [Installation](part2/Installation.md)
