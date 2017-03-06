@@ -1,6 +1,6 @@
-### Target Definition
+# Target Definition
 
-**Target type for orders:**
+## **Target type for orders:**
 
 This determines how an initial trade target is calculated by the EA at the time of placing the order, also making use of the parameter "Target type value".  The following is a list of possible values for the target type.
 
@@ -86,19 +86,19 @@ The average move up and average move down for the previous nine daily candles ar
 
 If either the weekly move up, or weekly move down, have already exceeded the value specified in the parameters, the target required would be a move in the opposing direction, which makes no sense. However, before placing an order, the distance between the target and entry is always tested and no order will be placed if it is less than or equal to zero.
 
-**Target Type Value:**
+## **Target Type Value:**
 
 As described above, the "Target type value" works in conjunction with the selected "Target type". For instance, if "Target type" is TARGET\_FIXED\_PIPS, setting this value to 50 means that the initial target will always be 50 pips from the entry level.
 
-**Update target on new opposing zone:**
+## **Update target on new opposing zone:**
 
 If this parameter is set to true, the EA will update the target for a trade when a fresh opposing zone forms on the same time frame as the zone used to create the order. The new target will be calculated at the fresh zone's entry, modified by the Target Buffer or Reduce target by percentage parameter.
 
-**Reduce target by percentage \(0-100\):**
+## **Reduce target by percentage \(0-100\):**
 
 This parameter is used to reduce the profit target by a set percentage in order to increase the probability that the target will be hit. This is to avoid trying to close an order at the time where there is significant competition with other traders. Typically, it is used in conjunction with an opposing zone target type.
 
-**Target buffer in pips**
+## **Target buffer in pips**
 
 As an alternative to the previous parameter, this can be used to reduce the calculated profit target by a set number of pips, instead of a percentage of the total profit target.
 
