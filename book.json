@@ -1,7 +1,7 @@
 {
     "plugins": ["autocover"],
     "pluginsConfig": {
-        "autocover": {
+            "autocover": {
                 // Configuration for autocover (see below)
                 {
                 "title": "Zone Trading",
