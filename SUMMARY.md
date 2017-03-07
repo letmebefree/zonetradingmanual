@@ -2,7 +2,7 @@
 
 * [Introduction](Introduction.md)
 * [Summary](README.md)
-* [Key Concepts](key-concepts.md)
+* Key Concepts
   * [Supply and Demand](Key Concepts/SupplyAndDemand.md)
   * [Zones](Key Concepts/zones.md)
   * [Retests](Key Concepts/Retests.md)
@@ -18,7 +18,7 @@
   * [Currency Pairs](Quick Start/AvailableCurrencyPairs.md)
 * EA Parameters
   * [Shared](EA Parameters/shared.md)
-  * [Chart Analysis](EA Parameters/chart-analysis.md)
+  * Chart Analysis
     * [Trend Bias](EA Parameters/Chart Analysis/trend-bias.md)
     * [Bollinger Bands](EA Parameters/Chart Analysis/bollinger-bands.md)
     * [Overlapping Zones](EA Parameters/Chart Analysis/overlapping-zones.md)
@@ -28,13 +28,15 @@
   * Auto-Trading
     * [Initial Target Type](EA Parameters/Auto-Trading/initial-target-type.md)
     * [Alternative Trade Exits](EA Parameters/Auto-Trading/alternative-trade-exits.md)
-    * [Order Filters](EA Parameters/Auto-Trading/order-filters.md)
+    * Order Filters
       * [General](EA Parameters/Auto-Trading/OrderFilters/general.md)
       * [Time of Day](EA Parameters/Auto-Trading/OrderFilters/time-of-day.md)
       * [Technical Indicators](EA Parameters/Auto-Trading/OrderFilters/technical.md)
       * [Previous Price Moves](EA Parameters/Auto-Trading/OrderFilters/previous-moves.md)
-    * [Risk Management](EA Parameters/Auto-Trading/risk-management.md)
+    * Risk Management
       * [Position Sizing](EA Parameters/Auto-Trading/RiskManagement/position-sizing.md)
       * [Stop Management](EA Parameters/Auto-Trading/RiskManagement/stop-management.md)
       * [Order Counts](EA Parameters/Auto-Trading/RiskManagement/order-counts.md)
+
+
 
