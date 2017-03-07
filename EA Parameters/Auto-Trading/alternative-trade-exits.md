@@ -10,3 +10,9 @@ If set to true, the EA will close a trade as soon as a new candle occurs with it
 
 The parameters for the BolLinger bands and moving averages are taken from the global settings, defaulting to 20 period and standard deviation of 2.
 
+## Close trades at end of session 1/2/3:
+
+If set to true, the EA will close all trades associated to  any instance of the EA with the same unique identifier and the same symbol, 15 minutes before the end of the session defined with the relevant "time-of-day" parameters. After that, no further trading will occur for the rest of that session, unless another of the sessions overides this.
+
+
+
