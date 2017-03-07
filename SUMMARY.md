@@ -23,7 +23,7 @@
     * [Bollinger Bands](EA Parameters/Chart Analysis/bollinger-bands.md)
     * [Overlapping Zones](EA Parameters/Chart Analysis/overlapping-zones.md)
     * [Price Curve](EA Parameters/Chart Analysis/price-curve.md)
-    * Targets
+    * [Targets](EA Parameters/Chart Analysis/targets.md)
     * Zone Attributes
 * Auto-Trading
 

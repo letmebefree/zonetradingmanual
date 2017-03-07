@@ -1,4 +1,4 @@
-### **TARGET BASED FILTERS**
+### **TARGETS**
 
 **Minimum target Rs required:**
 
