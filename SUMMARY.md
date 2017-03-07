@@ -34,7 +34,7 @@
       * [Technical Indicators](EA Parameters/Auto-Trading/OrderFilters/technical.md)
       * [Previous Price Moves](EA Parameters/Auto-Trading/OrderFilters/previous-moves.md)
     * [Risk Management](EA Parameters/Auto-Trading/risk-management.md)
-      * [Position Sizing](EA Parameters/Auto-Trading/risk-management/position-sizing.md)
-      * Stop Management
-      * Order Counts
+      * [Position Sizing](EA Parameters/Auto-Trading/RiskManagement/position-sizing.md)
+      * [Stop Management](EA Parameters/Auto-Trading/RiskManagement/stop-management.md)
+      * [Order Counts](EA Parameters/Auto-Trading/RiskManagement/order-counts.md)
 
