@@ -24,6 +24,6 @@
     * [Overlapping Zones](EA Parameters/Chart Analysis/overlapping-zones.md)
     * [Price Curve](EA Parameters/Chart Analysis/price-curve.md)
     * [Targets](EA Parameters/Chart Analysis/targets.md)
-    * Zone Attributes
+    * [Zone Attributes](EA Parameters/Chart Analysis/zone-attributes.md)
 * Auto-Trading
 
