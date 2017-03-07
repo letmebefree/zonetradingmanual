@@ -34,4 +34,9 @@
     * [Previous Price Moves](EA Parameters/Auto-Trading/OrderFilters/previous-moves.md)
   * [Alternative Trade Exits](EA Parameters/Auto-Trading/alternative-trade-exits.md)
   * Risk Management
+    * Position Sizing
+    * Stop Management
+    * Order Counts
+
+
 
