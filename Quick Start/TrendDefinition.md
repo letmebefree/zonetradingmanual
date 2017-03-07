@@ -5,7 +5,7 @@ Trend can be defined in many different ways by different traders. It is very har
 Two different trend definitions have been implemented for use within the EA.
 
 * TREND\_BY\_ZONE - The trend is determined according to the last zone touched by price
-* TREND\_BY\_MA - The trend is determined by relative position of a 10 period EMA and a 12 period SMA
+* TREND\_BY\_MA - The trend is determined by relative position of a 10 period EMA and a 12 period SMA 
 
 The preferred choice can be selected by changing the  shared parameter "Method for calculating bias trends"
 

@@ -1,4 +1,4 @@
-# Chart Indicators
+# Chart Indications
 
 You will see a number of indicators and labels and charts that it is important to understand.
 
