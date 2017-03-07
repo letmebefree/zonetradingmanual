@@ -2,17 +2,15 @@
 
 ## **EA Mode of Operation:**
 
-There are three selectable modes of operation for Zone-Trader Tutor available. 
-
-The available modes include:
+There are three selectable modes of operation for Zone-Trader Tutor available. These include:
 
 * EA\_MODE\_FREE\_ANALYSIS 
 * EA\_MODE\_LIVE\_ANALYSIS 
 * EA\_MODE\_AUTO\_TRADING.
 
-If a mode is selected which is not part of the current subscription, the EA will report an error and remove itself from the chart.
+If a mode is selected which is not part of the current subscription for the user and licence key entered as parameters, the EA will report an error and remove itself from the chart. 
 
-Each of the available modes are summarised below:
+Each of the available modes are described below:
 
 **EA\_MODE\_LIVE\_ANALYSIS**
 
