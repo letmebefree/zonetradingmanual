@@ -1,4 +1,4 @@
-# Bollinger Band Filters
+# Bollinger Bands
 
 Only zones touching Bollinger Bands:
 
