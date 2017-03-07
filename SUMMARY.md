@@ -19,7 +19,7 @@
 * EA Parameters
   * [Common](EA Parameters/common.md)
   * Chart Analysis
-    * Trend Bias
+    * [Trend Bias](EA Parameters/Chart Analysis/trend-bias.md)
     * Bollinger Bands
     * Overlapping Zones
     * Price Curve

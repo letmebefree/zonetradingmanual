@@ -1,4 +1,4 @@
-# Bias Filters
+# Trend Bias Filters
 
 The bias is used to filter out zones which would result in trades going against a dominant trend. Whilst they may not always be useful in ranging conditions, they will be beneficial when trading currencies that are in a clear longer term trend. The time frame and direction may either be set manually or calculated by the EA according to the selected parameter value. Refer to the section on "Trend Definition" to understand exactly how the EA determines trend for each time frame
 
@@ -20,7 +20,7 @@ Across all time frames, only supply zones will be displayed as active on the cha
 
 BIAS\_HTF\_TREND
 
-The bias for each time frame will be set according to the trend on the next higher time frame. For example, if the trend on the D1 chart is up, only demand zones will be active on the H4 chart. Similarly, if the trend on the H1 chart is down, only supply zones will be active on the M30 chart. A bias on the MN1 chart will not be set as there is no available higher time frame. This would typically be used for swing trading. where you wanted the EA to adjust bias once the higher time frame trend changed direction. 
+The bias for each time frame will be set according to the trend on the next higher time frame. For example, if the trend on the D1 chart is up, only demand zones will be active on the H4 chart. Similarly, if the trend on the H1 chart is down, only supply zones will be active on the M30 chart. A bias on the MN1 chart will not be set as there is no available higher time frame. This would typically be used for swing trading. where you wanted the EA to adjust bias once the higher time frame trend changed direction.
 
 BIAS\_HHTF\_TREND
 
