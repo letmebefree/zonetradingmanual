@@ -1,4 +1,4 @@
-# PRICE CURVE FILTERS
+# PRICE CURVE
 
 The price curve is defined on a higher time frame and represents a range of prices between the closest higher time frame supply zone above the level of interest and the closest higher time frame demand zone below the level of interest.
 
