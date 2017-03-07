@@ -27,7 +27,7 @@
     * [Zone Attributes](EA Parameters/Chart Analysis/zone-attributes.md)
 * Auto-Trading
   * [Initial Target Type](EA Parameters/Auto-Trading/initial-target-type.md)
-  * Order Filters
+  * [Order Filters](EA Parameters/Auto-Trading/order-filters.md)
     * [General](EA Parameters/Auto-Trading/OrderFilters/general.md)
     * [Time of Day](EA Parameters/Auto-Trading/OrderFilters/time-of-day.md)
     * [Technical Indicators](EA Parameters/Auto-Trading/OrderFilters/technical.md)
