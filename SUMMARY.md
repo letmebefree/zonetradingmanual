@@ -26,7 +26,7 @@
     * [Targets](EA Parameters/Chart Analysis/targets.md)
     * [Zone Attributes](EA Parameters/Chart Analysis/zone-attributes.md)
 * Auto-Trading
-  * Order Targets
+  * Initial Target Type
   * Order Filters
   * Trade Exits
   * Risk Management
