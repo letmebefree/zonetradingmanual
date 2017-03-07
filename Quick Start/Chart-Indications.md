@@ -2,6 +2,8 @@
 
 You will see a number of indicators and labels and charts that it is important to understand.
 
+## Summary Information
+
 In the top left of the chart, you can see the following:
 
 An indication of the current trend for each time frame for which zones are currently being identified.
@@ -31,12 +33,17 @@ The weekly moves for each candle are calculated based on whether the closing pri
 For a bullish candle:
 
 * Weekly up move = High – Low
+
 * Weekly down move = Maximum of: High – Close, Open - Low
 
 For a bearish candle:
 
 * Weekly up move = Maximum of: Close – Low, High – Open
 * Weekly down move = High - Low
+
+## Zone Markings
+
+At the start or each line, you will notice a D or S followed by a number. The number represents the previous retests of the zone, whilst the D/S indicate if the zone is supply or demand.
 
 
 
