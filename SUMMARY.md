@@ -21,7 +21,7 @@
   * [Chart Analysis](EA Parameters/chart-analysis.md)
     * [Trend Bias](EA Parameters/Chart Analysis/trend-bias.md)
     * [Bollinger Bands](EA Parameters/Chart Analysis/bollinger-bands.md)
-    * Overlapping Zones
+    * [Overlapping Zones](EA Parameters/Chart Analysis/overlapping-zones.md)
     * Price Curve
     * Targets
     * Zone Attributes

@@ -1,4 +1,4 @@
-# Zone Overlap Filters
+# Overlapping Zones
 
 **Exclude the inner of any overlapping zones:**
 
