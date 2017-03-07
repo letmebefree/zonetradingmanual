@@ -16,4 +16,10 @@
   * [Chart Indications](Quick Start/Chart-Indications.md)
   * [Time Frames](Quick Start/time-frames.md)
   * [Available Currency Pairs](Quick Start/AvailableCurrencyPairs.md)
+* EA Parameters
+  * Chart Analysis
+    * 
+  * Auto-Trading
+
+
 

@@ -1,4 +1,4 @@
-# Shared Parameters
+# Core Parameters
 
 The following core parameters control the operating mode and overall behavior of the EA. They are typically best stored as a in a Metatrader template so they do not need to be entered each time.
 
