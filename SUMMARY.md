@@ -28,6 +28,10 @@
 * Auto-Trading
   * Initial Target Type
   * Order Filters
+    * General
+    * Time of Day
+    * Technical Indicators
+    * Previous Price Moves
   * Trade Exits
   * Risk Management
 
