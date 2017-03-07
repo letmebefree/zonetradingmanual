@@ -1,4 +1,4 @@
-# Target Definition
+# Initial Target
 
 ## **Target type for orders:**
 
