@@ -14,7 +14,7 @@ Amongst other things, this tells us that the current trend on the W1 chart is up
 
 Underneath the trend indicators,, you will see indicators representing the move up and move down for both the current week and the current day. The calculation is performed as follows:
 
-The**daily**\*_moves \*_for the latest candle are calculated every tick, based on whether the closing price of the candle was above \(bullish\) or below \(bearish\) the open price.
+The **daily **moves for the latest candle are calculated every tick, based on whether the closing price of the candle was above \(bullish\) or below \(bearish\) the open price.
 
 For a bullish candle:
 
@@ -26,7 +26,7 @@ For a bearish candle:
 * Daily move up = Maximum of: Close – Low, High – Open
 * Daily move down = High - Low
 
-The \*_weekly moves \*_for each candle are calculated based on whether the closing price of the candle was above \(bullish\) or below \(bearish\) the open price.
+The weekly moves for each candle are calculated based on whether the closing price of the candle was above \(bullish\) or below \(bearish\) the open price.
 
 For a bullish candle:
 
