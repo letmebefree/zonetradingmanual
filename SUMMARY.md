@@ -17,8 +17,8 @@
   * [Time Frames](Quick Start/time-frames.md)
   * [Available Currency Pairs](Quick Start/AvailableCurrencyPairs.md)
 * EA Parameters
-  * [Common](EA Parameters/common.md)
-  * Chart Analysis
+  * [Shared](EA Parameters/common.md)
+  * [Chart Analysis](EA Parameters/chart-analysis.md)
     * [Trend Bias](EA Parameters/Chart Analysis/trend-bias.md)
     * Bollinger Bands
     * Overlapping Zones

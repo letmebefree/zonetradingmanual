@@ -1,4 +1,4 @@
-# Trend Bias Filters
+# Trend Bias
 
 The bias is used to filter out zones which would result in trades going against a dominant trend. Whilst they may not always be useful in ranging conditions, they will be beneficial when trading currencies that are in a clear longer term trend. The time frame and direction may either be set manually or calculated by the EA according to the selected parameter value. Refer to the section on "Trend Definition" to understand exactly how the EA determines trend for each time frame
 
