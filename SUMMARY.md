@@ -27,16 +27,14 @@
     * [Zone Attributes](EA Parameters/Chart Analysis/zone-attributes.md)
   * Auto-Trading
     * [Initial Target Type](EA Parameters/Auto-Trading/initial-target-type.md)
+    * [Alternative Trade Exits](EA Parameters/Auto-Trading/alternative-trade-exits.md)
     * [Order Filters](EA Parameters/Auto-Trading/order-filters.md)
       * [General](EA Parameters/Auto-Trading/OrderFilters/general.md)
       * [Time of Day](EA Parameters/Auto-Trading/OrderFilters/time-of-day.md)
       * [Technical Indicators](EA Parameters/Auto-Trading/OrderFilters/technical.md)
       * [Previous Price Moves](EA Parameters/Auto-Trading/OrderFilters/previous-moves.md)
-    * [Alternative Trade Exits](EA Parameters/Auto-Trading/alternative-trade-exits.md)
-    * Risk Management
-      * Position Sizing
+    * [Risk Management](EA Parameters/Auto-Trading/risk-management.md)
+      * [Position Sizing](EA Parameters/Auto-Trading/risk-management/position-sizing.md)
       * Stop Management
       * Order Counts
-
-
 
