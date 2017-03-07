@@ -1,6 +1,6 @@
 # Bollinger Bands
 
-Only zones touching Bollinger Bands:
+## Only zones touching Bollinger Bands:
 
 This filter checks whether any candle, between the start of the zone and the time when it first formed, is touching, breaking or outside of the upper or lower Bollinger band. In the case of a demand zone, it must be the lower Bollinger Band, whilst for a supply zone it must be the upper Bollinger band. If no part of any candle is outside the respective band, the zone is made inactive.
 
