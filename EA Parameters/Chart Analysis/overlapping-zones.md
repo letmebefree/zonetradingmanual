@@ -1,6 +1,6 @@
 # Overlapping Zones
 
-**Exclude the inner of any overlapping zones:**
+## **Exclude the inner of any overlapping zones:**
 
 Looking at a single time frame, there will be instances where two or more of the zones overlap with each other. In this scenario, the zones further away from price will always have a higher probability of rejecting price. Therefore, we may look to ignore any of the inner zones when it comes to trading retests. This can be achieved by setting this parameter to true.
 
@@ -12,7 +12,7 @@ Once set to true, we see the inner of the overlapping zones highlighted in the f
 
 ![](/assets/overlapping2.png)
 
-**Only use zones that fall inside a HTF zone:**
+## **Only use zones that fall inside a HTF zone:**
 
 The EA can compare zones across different time frames to see when a zone on one time frame falls inside a zone on a higher time frame. This increases the probability that price will reverse at the smaller time frame zone.
 
