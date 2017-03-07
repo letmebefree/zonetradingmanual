@@ -1,4 +1,4 @@
-# Available Currency Pairs
+# Currency Pairs
 
 For chart analysis, the EA is able to display zones across any currency pair or index. This includes precious metals such as Gold and Silver, as well as the well known stock market indices.
 
