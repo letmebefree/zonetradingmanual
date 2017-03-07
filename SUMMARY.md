@@ -32,8 +32,6 @@
     * [Time of Day](EA Parameters/Auto-Trading/OrderFilters/time-of-day.md)
     * [Technical Indicators](EA Parameters/Auto-Trading/OrderFilters/technical.md)
     * [Previous Price Moves](EA Parameters/Auto-Trading/OrderFilters/previous-moves.md)
-  * Alternative Trade Exits
+  * [Alternative Trade Exits](EA Parameters/Auto-Trading/alternative-trade-exits.md)
   * Risk Management
-
-
 
