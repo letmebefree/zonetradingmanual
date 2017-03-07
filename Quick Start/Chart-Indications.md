@@ -45,7 +45,7 @@ For a bearish candle:
 
 Zones are represented by two lines on a chart, one \(closest to price\) being the entry level and the other \(furthest from price\) being the stop level. Whilst the entry level is a solid line, the stop level is a dashed line.
 
-Once price has passed through a zone, that zone is considered invalid as there can no longer be any pending orders remaining in the zone to be filled. The zone is therefore no longer considered by the EA, will not be displayed on the chart or will be shown with a thinner line thickness \(see Chart Display parameters\).
+Once price has passed through a zone, that zone is considered invalid as there can no longer be any pending orders remaining in the zone to be filled. The zone is therefore no longer considered by the EA, will not be displayed on the chart.
 
 In contrast, inactive zones have not yet been invalidated \(stopped out\), but have been excluded from consideration for trading purposes due to not meeting criteria for the strategy. However, inactive zones are still by default represented on a chart by thinner lines than those used for active zones \(this may be changed through parameters\)
 
