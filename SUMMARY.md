@@ -15,7 +15,7 @@
   * [Trend Definition](Quick Start/TrendDefinition.md)
   * [Chart Indications](Quick Start/Chart-Indications.md)
   * [Time Frames](Quick Start/time-frames.md)
-  * [Available Currency Pairs](Quick Start/AvailableCurrencyPairs.md)
+  * [Currency Pairs](Quick Start/AvailableCurrencyPairs.md)
 * EA Parameters
   * [Shared](EA Parameters/shared.md)
   * [Chart Analysis](EA Parameters/chart-analysis.md)
