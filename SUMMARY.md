@@ -17,7 +17,7 @@
   * [Time Frames](Quick Start/time-frames.md)
   * [Available Currency Pairs](Quick Start/AvailableCurrencyPairs.md)
 * EA Parameters
-  * Common
+  * [Common](EA Parameters/common.md)
   * Chart Analysis
     * Trend Bias
     * Bollinger Bands
@@ -26,6 +26,4 @@
     * Targets
     * Zone Attributes
 * Auto-Trading
-
-
 
