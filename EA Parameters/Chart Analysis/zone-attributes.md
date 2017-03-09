@@ -28,3 +28,13 @@ This parameter sets a maximum zone penetration allowed by price since the zone f
 
 If the number of candles that have closed since the zone formed is greater than the value specified, the zone will be made inactive. This allows for trading only rapid retests soon after a zone first forms, a useful method for getting into a new trend at the start. For example, when a chart is in an uptrend, you may want to enter on any rapid retracement back to demand that happens within 10 candles of the demand first being created. Setting the value of the parameter to 10 ensures that no orders are entered for this particular zone after 10 candles have completed.
 
+## Exclude zones if price has closed inside them :
+
+This parameter forces the EA to look from when a zone first formed to the current time, to check whether price has ever closed within the zone. If so, the zone will be made inactive. The principle behind this is that if price has managed to  close inside the zone, then the chances of there being any orders left at the entry level are nil. Of course, there may be other levels within the zone, created from a smaller time frame and these may still provide some supply or demand.
+
+The next chart below shows all the unfiltered zones on the GBPAUD H1 chart. Whilst the next one further down demnostrates what happens when this parameter is switched on. As you can see, zones are removed when price has already closed once inside them since they were created.
+
+![](/assets/priceClosedinside.png)
+
+![](/assets/priceclosedinside2.png)
+
