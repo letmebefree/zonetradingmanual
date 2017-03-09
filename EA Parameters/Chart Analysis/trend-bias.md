@@ -56,3 +56,7 @@ The bias for each time frame smaller than the MN1 time frame will be set accordi
 
 As it makes no sense to set a bias for timeframes equal or higher than MN1, these will be left with no bias applied \(both supply and demand zones will remain active\).
 
+## Number of historic candles to apply bias:
+
+This setting prevents the EA applying a bias to zones that formed more than the given number of candles in the past. This can be used to filter out newly formed zones that are in the opposing direction of a higher time frame trend \(depending on how you set your bias\), but still show zones that formed some time in the past and may bring the current time frame trend to a halt, creating a reversal.
+
