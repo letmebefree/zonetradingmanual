@@ -23,11 +23,13 @@ Of course, price movement is not just based on supply on supply and demand from 
 
 TREND\_BY\_MA
 
-This gives a more traditional indication of which way price is moving, looking at the relative positions of a 10 period exponential moving average and a 12 period simple moving average. If the faster moving EMA is above the slower moving SMA, then the trend is considered up . If the relative positions are reversed, the trend is considered down
+This gives a more traditional indication of which way price is moving, looking at the relative positions of a fast exponential moving average and a slower simple moving average. The periods in use default to 10 and 12 respectively. However, these can be changed using parameters. 
 
-My own preference is to use TREND\_BY\_ZONE as I work on the basis that trend is detemined by zones and therefore we should not be using trends to determine which zones to trade off. In addition, during ranging periods, the traditional trend indicator that lags actual price movement can be somewhat unreliable.
+If the faster moving EMA is above the slower moving SMA, then the trend is considered up . If the relative positions are reversed, the trend is considered down
 
-The TREND\_BY\_MA is a more traditional definition of trend and many traders would want only want to trade in the direction of this trade on a higher time frame such as the weekly chart.
+My own preference is to use TREND\_BY\_ZONE as I work on the basis that trend is determined by zones and therefore we should not be using trends to determine which zones to trade off. In addition, during ranging periods, the traditional trend indicator that lags actual price movement can be somewhat unreliable.
+
+However, the TREND\_BY\_MA is a more traditional definition of trend and many traders would want only want to trade in the direction of this trade on a higher time frame such as the weekly chart.
 
 ![](/assets/H4trendDefintions.JPG)
 
