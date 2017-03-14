@@ -12,6 +12,8 @@ In the chart below, we see the text ”MN1:U W1:U D1:D H1:D M30:D M15:D”.
 
 Amongst other things, this tells us that the current trend on the W1 chart is up, whilst the trend on the M30 chart is down.
 
+You will only see values given for the time frames that zones are actually being calculated for. Therefore, if you are using the free version of the EA, you will only see trend values for MN1, W1 and D1 time frames.
+
 [![](https://github.com/letmebefree/zonetradingmanual/raw/master/assets/chart_indicators.png)](https://github.com/letmebefree/zonetradingmanual/blob/master/assets/chart_indicators.png)
 
 Underneath the trend indicators,, you will see indicators representing the move up and move down for both the current week and the current day. The calculation is performed as follows:
