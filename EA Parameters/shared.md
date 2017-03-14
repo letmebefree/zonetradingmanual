@@ -10,24 +10,18 @@ Running multiple instances of the EA with the same unique identifier allows for 
 
 **Mode of Operation:**
 
-There are four modes of operation available for Zone-Trader Tutor at this stage. These includes:
+There are two modes of operation available for Zone-Trader Tutor at this stage. These includes:
 
-* EA\_MODE\_FREE 
 * EA\_MODE\_LIVE\_ANALYSIS 
 * EA\_MODE\_AUTO\_TRADING. 
-* EA\_MODE\_BACKTEST \(not currently available to use\)
 
-Each of the modes are summarised below:
-
-EA\_MODE\_FREE
-
-This is the default mode when the EA is first loaded. It is used to view zones on the daily, weekly or monthly charts without any trading capability. Setting maximum or minimum time frame to calculate will NOT let you override the zones calculated by the EA.
-
-Whilst operating in this mode, it is possible to filter the zones using any parameters that appear in the sections \*\*\*ZONE\_FILTERS\*\*\*, \*\*\*PRICE CURVE FILTERS\*\*\* and \*\*\*RELATIVE ZONE FILTERS\*\*\*. Values being filtered by the parameters under these sections are those that only change when a new candle opens or when a zone is stopped out. It does not include any parameters filtering values that change every tick \(e.g. values of technical indicators, time of day\). Neither will any trading parameters be relevant for this mode.
+Each of the modes are summarised below:.
 
 EA\_MODE\_LIVE\_ANALYSIS
 
-This is a similar mode to EA\_MODE\_FREE, but applies to all time frames, not just daily,  weekly and monthly. The actual time frames used for deriving zones can be controlled by the "Maximum/Minimum time frame to calculate" parameter values.
+If using the free version of the EA, zones will only be displayed on the daily, weekly and monthly charts. It is then possible to filter the zones using any parameters that appear in the sections \*\*\*ZONE\_FILTERS\*\*\*, \*\*\*PRICE CURVE FILTERS\*\*\* and \*\*\*RELATIVE ZONE FILTERS\*\*\*. Values being filtered by the parameters under these sections are those that only change when a new candle opens or when a zone is stopped out. It does not include any parameters filtering values that change every tick \(e.g. values of technical indicators, time of day\). Neither will any trading parameters be relevant for this mode.
+
+If using the paid for version, the EA will operate in a similar manner, but applies to all time frames, not just daily,  weekly and monthly. The actual time frames used for deriving zones can be controlled by the "Maximum/Minimum time frame to calculate" parameter values.
 
 EA\_MODE\_AUTO\_TRADING
 
