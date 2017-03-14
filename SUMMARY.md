@@ -16,9 +16,9 @@
   * [Chart Indications](Quick Start/Chart-Indications.md)
   * [Time Frames](Quick Start/time-frames.md)
   * [Currency Pairs](Quick Start/AvailableCurrencyPairs.md)
-* EA Parameters
+* [EA Parameters](ea-parameters.md)
   * [Shared](EA Parameters/shared.md)
-  * Chart Analysis
+  * [Chart Analysis](EA Parameters/chart-analysis.md)
     * [Trend Bias](EA Parameters/Chart Analysis/trend-bias.md)
     * [Bollinger Bands](EA Parameters/Chart Analysis/bollinger-bands.md)
     * [Overlapping Zones](EA Parameters/Chart Analysis/overlapping-zones.md)
@@ -37,6 +37,4 @@
       * [Position Sizing](EA Parameters/Auto-Trading/RiskManagement/position-sizing.md)
       * [Stop Management](EA Parameters/Auto-Trading/RiskManagement/stop-management.md)
       * [Order Counts](EA Parameters/Auto-Trading/RiskManagement/order-counts.md)
-
-
 

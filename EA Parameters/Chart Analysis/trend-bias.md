@@ -1,6 +1,6 @@
 # Trend Bias
 
-The bias is used to filter out zones which would result in trades going against a dominant trend. Whilst they may not always be useful in ranging conditions, they will be beneficial when trading currencies that are in a clear longer term trend. The time frame and direction may either be set manually or calculated by the EA according to the selected parameter value. Refer to the section on "Trend Definition" to understand exactly how the EA determines trend for each time frame
+The trend bias is used to filter out zones which would result in trades going against the trend on a selected time frame. Whilst they may not always be useful in ranging conditions, they will be beneficial when trading currencies that are in a clear longer term trend. The time frame and direction may either be set manually or calculated by the EA according to the selected parameter value. Refer to the section on "Trend Definition" to understand exactly how the EA determines trend for each time frame
 
 Up to four different biases can be applied at one time. For example, if the bias for the H1 time frame should be up when the trend on the D1, W1 and MN1 time frames are also up, or down when the trend on the D1, W1 and MN1 time frames are also down, each of three different bias settings can be applied using values of BIAS\_D1\_TREND, BIAS\_W1\_TREND and BIAS\_MN1\_TREND respectively. In this scenario, if any of the trends in these three higher time frames are different from the others, there will be no active zones on the H1 chart.
 
