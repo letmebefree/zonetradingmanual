@@ -2,13 +2,13 @@
 
 The following core parameters control the operating mode and overall behavior of the EA. They are typically best stored as a in a Metatrader template so they do not need to be entered each time.
 
-**EA Identifier:**
+## **EA Identifier:**
 
 This is a numeric value that can be used to uniquely identify each instance of an Expert Adviser running on a given chart. An EA with a unique identifier can only modify orders that were either created by itself, or by another instance of the EA with the same unique identifier.
 
 Running multiple instances of the EA with the same unique identifier allows for strategies that are implemented across multiple currency pairs or for running multiple strategies on a single pair with a shared trade management approach.
 
-**Mode of Operation:**
+## **Mode of Operation:**
 
 There are two modes of operation available for Zone-Trader Tutor at this stage. These includes:
 
@@ -27,19 +27,15 @@ EA\_MODE\_AUTO\_TRADING
 
 This mode must be selected when you want the EA to place a pending \(or market\) order when all criteria for the strategy settings are met. Zones are still displayed on the chart as happens in mode EA\_MODE\_LIVE\_ANALYSIS.
 
-EA\_MODE\_BACKTEST  \[not currently available\]
-
-Previous iterations of this EA have presented an option to back-test a strategy prior to running the strategy in Auto-Trading mode. However, this has not yet been implemented in the current version where the focus has been on the auto-trading functionality.
-
-**Maximum time frame to calculate:**
+## **Maximum time frame to calculate:**
 
 This determines the highest time frame for which zones will be calculated. As a general principle, when zones from a specific time frame are not required for a strategy, it is better not to calculate them, therefore helping performance.
 
-**Minimum time frame to calculate:**
+## **Minimum time frame to calculate:**
 
 This determines the lowest time frame for which zones will be calculated. It is beneficial to avoid calculating zones for very small time frames \(M15 or less\) as this can degrade the EA performance significantly. Setting of these values should be used in conjunction with “Candles to look back for zones” to optimise performance for the time frame that zones are required. As a general principle, when zones from a given time frame are not required for a strategy, it is better not to calculate them, therefore helping performance.
 
-**Candles to look back for zones \(0=all\):**
+## **Candles to look back for zones \(0=all\):**
 
 This value determines the maximum number of historic candles the EA will look back when identifying and creating zones.
 
