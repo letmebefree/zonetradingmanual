@@ -12,6 +12,20 @@ Once set to true, we see the inner of the overlapping zones highlighted in the f
 
 ![](/assets/overlapping2.png)
 
+## Only include zones with entries inside another zone:
+
+This parameter can be used to exclude any zones that have their entry level sitting inside another zone from the same time frame. Considering supply zones for now, the principle behind this is that as price approaches two overlapping zones, there are insufficient residual sell orders at the first zones entry level to turn price. However, as price passes through, many of the buy orders creating the upward momentum are absorbed.  By time price reaches the next zones entry level, there are very few buyers remaining and residual sell orders will force price back down due to the supply/demand imbalance. 
+
+The following diagrams illustrate what happens before and after this parameter is switched from false to true. 
+
+Before the change, we see the zones below. Pay particular attention to the zones immediately above and below price.
+
+![](/assets/excludeoverlapping1.png)
+
+Once the parameter is set to true, the following is seen. Here we see the two zones closest to price \(one above, one below\) becoming inactive. This is because in both instances, the entry level is not inside another zone from the same time frame. 
+
+![](/assets/overlappingzones2.png)
+
 ## **Only use zones that fall inside a HTF zone:**
 
 The EA can compare zones across different time frames to see when a zone on one time frame falls inside a zone on a higher time frame. This increases the probability that price will reverse at the smaller time frame zone.
