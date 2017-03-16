@@ -18,7 +18,13 @@ If the distance between the zone entry and stop level is less than the parameter
 
 ## **Maximum prior retests:**
 
-For each possible zone on the chart, the EA counts the number of times that price has left the zone and then come back to retest it. If the count is greater than the value of this parameter, the zone will be made inactive, For example if price has left and then returned to retest a zone twice, setting the value to 1 or lower will cause the zone to be inactive. The principle is that the more times price has retested a zone, the fewer institutional orders will be remaining to absorb the momentum and create a reversal.
+For each possible zone on the chart, the EA counts the number of times that price has left the zone and then come back to retest it. If the count is greater than the value of this parameter, the zone will be made inactive, For example if price has left and then returned to retest a zone twice, setting the value to 1 or lower will cause the zone to be inactive. The principle is that the more times price has retested a zone, the fewer institutional orders will be remaining to absorb the momentum and create a reversal \(see also "Historic candles to look for retest"\)
+
+## Historic candles to look for retest:
+
+By changing this from the default value of 0, we are telling the EA to only count retests of a zone starting from a certain point of time represented by a count of the most recent candles. If this count goes beyond when the zone first formed, then the retest count will not change. However, if the count means going back to a point after the zone was first created, the retest count may decrease. 
+
+This parameter was implemented with consideration of the fact that when price has been away from a zone for some time, new orders are likely to build up at the level and prior retests become less significant. Essentially, we are resetting the retest counter when price has been away from the zone for a considerable amount of time. 
 
 ## **Maximum penetration percent:**
 
