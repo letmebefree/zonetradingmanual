@@ -1,6 +1,6 @@
 # Shared Parameters
 
-The following core parameters control the operating mode and overall behavior of the EA. They are typically best stored as a in a Metatrader template so they do not need to be entered each time.
+The following core parameters control the operating mode and overall behaviour of the EA. They are typically best stored as an in a Metatrader template so they do not need to be entered each time.
 
 ## **EA Identifier:**
 
@@ -15,7 +15,7 @@ There are two modes of operation available for Zone-Trader Tutor at this stage. 
 * EA\_MODE\_LIVE\_ANALYSIS 
 * EA\_MODE\_AUTO\_TRADING. 
 
-Each of the modes are summarised below:.
+Each of the modes is summarised below:
 
 EA\_MODE\_LIVE\_ANALYSIS
 
@@ -33,7 +33,7 @@ This determines the highest time frame for which zones will be calculated. As a 
 
 ## **Minimum time frame to calculate:**
 
-This determines the lowest time frame for which zones will be calculated. It is beneficial to avoid calculating zones for very small time frames \(M15 or less\) as this can degrade the EA performance significantly. Setting of these values should be used in conjunction with “Candles to look back for zones” to optimise performance for the time frame that zones are required. As a general principle, when zones from a given time frame are not required for a strategy, it is better not to calculate them, therefore helping performance.
+This determines the lowest time frame for which zones will be calculated. It is beneficial to avoid calculating zones for very small time frames \(M15 or less\) as this can degrade the EA performance significantly. The setting of these values should be used in conjunction with “Candles to look back for zones” to optimise performance for the time frame that zones are required. As a general principle, when zones from a given time frame are not required for a strategy, it is better not to calculate them, therefore helping performance.
 
 ## **Candles to look back for zones \(0=all\):**
 
@@ -45,5 +45,5 @@ A value of 0 means that all candles available on the broker server will be used.
 
 Place zone entries against candle bodies:
 
-This controls whether the entry level of zones are placed the low/high of a candle wick, or if it is pushed up against the candle bodies to minimise stop size.
+This controls whether the entry level of zones is placed the low/high of a candle wick, or if it is pushed up against the candle bodies to minimise stop size.
 
