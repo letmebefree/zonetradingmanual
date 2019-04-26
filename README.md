@@ -1,4 +1,4 @@
-# About Supply and Demand
+# Overview of Supply and Demand
 
 Supply and demand trading is an approach used by consistently profitable traders to find high probability trading opportunities by identifying levels or zones where large institutions are going to be placing large orders. An accumulation of institutional orders creates a significant shift in the balance of buy and sell orders at that level, thereby causing price to either significantly retrace or to resume a longer term trend in the opposite direction once price hits that level.
 
