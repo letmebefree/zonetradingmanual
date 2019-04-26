@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview of Supply and Demand](README.md)
+* [Overview](README.md)
 * [Introduction](introduction.md)
 * [Summary](readme.md)
 * [Key Concepts](key-concepts/README.md)
